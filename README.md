@@ -1,2 +1,5 @@
-# 1xbet_parser_api
-Ready-made 1xbet sports data parser and ready-made API for receiving answers
+# Парсер спортивной линии от 1xbet и сайтов сателитов @1xbetparser
+
+## Вступление
+
+Данный код выложен для ознакомления. Чтобы получить полную рабочую версию напишите нам в телеграмм [emresports](https://t.me/emresports)
