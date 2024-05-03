@@ -1,0 +1,6278 @@
+{
+    "6352": {
+        "IdG": "1",
+        "N": "X After Time Expires",
+        "T": 1,
+        "A": true
+    },
+    "1": {
+        "IdG": "1",
+        "N": "^1^",
+        "T": 1,
+        "A": true
+    },
+    "2": {
+        "IdG": "1",
+        "N": "Draw",
+        "T": 1,
+        "A": true
+    },
+    "3": {
+        "IdG": "1",
+        "N": "^2^",
+        "T": 1,
+        "A": true
+    },
+    "7": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "8": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "85": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "86": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "109": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "110": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "111": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "112": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "115": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "116": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "125": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "126": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "127": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "128": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "129": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "130": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "131": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "132": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "133": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "134": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "135": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "136": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "137": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "138": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "139": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "140": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "141": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "142": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "143": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "144": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "145": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "403": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "404": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "405": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "406": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "407": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "408": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "409": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "410": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "411": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "412": {
+        "IdG": "2",
+        "N": "Handiсap ^1^ ()",
+        "T": 5,
+        "A": true
+    },
+    "413": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "414": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "415": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "416": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "417": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "418": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "419": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "420": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "421": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "422": {
+        "IdG": "2",
+        "N": "Handiсap ^2^ ()",
+        "T": 5,
+        "A": true
+    },
+    "77": {
+        "IdG": "4",
+        "N": "Drawn First Half - No",
+        "T": 1,
+        "A": true
+    },
+    "78": {
+        "IdG": "4",
+        "N": "Drawn First Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "79": {
+        "IdG": "4",
+        "N": "^1^ To Win First Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "80": {
+        "IdG": "4",
+        "N": "^1^ To Win First Half - No",
+        "T": 1,
+        "A": true
+    },
+    "81": {
+        "IdG": "4",
+        "N": "^2^ To Win First Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "82": {
+        "IdG": "4",
+        "N": "^2^ To Win First Half - No",
+        "T": 1,
+        "A": true
+    },
+    "184": {
+        "IdG": "5",
+        "N": "^1^ To Score - Yes",
+        "T": 1,
+        "A": true
+    },
+    "185": {
+        "IdG": "5",
+        "N": "^1^ To Score - No",
+        "T": 1,
+        "A": true
+    },
+    "186": {
+        "IdG": "5",
+        "N": "^2^ To Score - Yes",
+        "T": 1,
+        "A": true
+    },
+    "187": {
+        "IdG": "5",
+        "N": "^2^ To Score - No",
+        "T": 1,
+        "A": true
+    },
+    "83": {
+        "IdG": "6",
+        "N": "Total 1st Half Over ()",
+        "T": 3,
+        "A": true
+    },
+    "84": {
+        "IdG": "6",
+        "N": "Total 1st Half Under ()",
+        "T": 3,
+        "A": true
+    },
+    "24": {
+        "IdG": "7",
+        "N": "Game Score 1:0",
+        "T": 3,
+        "A": true
+    },
+    "25": {
+        "IdG": "7",
+        "N": "Game Score 2:0",
+        "T": 3,
+        "A": true
+    },
+    "26": {
+        "IdG": "7",
+        "N": "Game Score 2:1",
+        "T": 3,
+        "A": true
+    },
+    "27": {
+        "IdG": "7",
+        "N": "Game Score 3:0",
+        "T": 3,
+        "A": true
+    },
+    "28": {
+        "IdG": "7",
+        "N": "Game Score 3:1",
+        "T": 3,
+        "A": true
+    },
+    "29": {
+        "IdG": "7",
+        "N": "Game Score 3:2",
+        "T": 3,
+        "A": true
+    },
+    "30": {
+        "IdG": "7",
+        "N": "Game Score 0-0",
+        "T": 3,
+        "A": true
+    },
+    "31": {
+        "IdG": "7",
+        "N": "Game Score 1:1",
+        "T": 3,
+        "A": true
+    },
+    "32": {
+        "IdG": "7",
+        "N": "Game Score 2:2",
+        "T": 3,
+        "A": true
+    },
+    "33": {
+        "IdG": "7",
+        "N": "Game Score 0:1",
+        "T": 3,
+        "A": true
+    },
+    "34": {
+        "IdG": "7",
+        "N": "Game Score 0:2",
+        "T": 3,
+        "A": true
+    },
+    "35": {
+        "IdG": "7",
+        "N": "Game Score 1:2",
+        "T": 3,
+        "A": true
+    },
+    "36": {
+        "IdG": "7",
+        "N": "Game Score 0:3",
+        "T": 3,
+        "A": true
+    },
+    "37": {
+        "IdG": "7",
+        "N": "Game Score 1:3",
+        "T": 3,
+        "A": true
+    },
+    "38": {
+        "IdG": "7",
+        "N": "Game Score 2:3",
+        "T": 3,
+        "A": true
+    },
+    "39": {
+        "IdG": "7",
+        "N": "Other",
+        "T": 3,
+        "A": true
+    },
+    "119": {
+        "IdG": "7",
+        "N": "Game Score 2:0",
+        "T": 1,
+        "A": true
+    },
+    "120": {
+        "IdG": "7",
+        "N": "Game Score 2:1",
+        "T": 1,
+        "A": true
+    },
+    "121": {
+        "IdG": "7",
+        "N": "Game Score 0:2",
+        "T": 1,
+        "A": true
+    },
+    "122": {
+        "IdG": "7",
+        "N": "Game Score 1:2",
+        "T": 1,
+        "A": true
+    },
+    "217": {
+        "IdG": "7",
+        "N": "Game Score 0-0",
+        "T": 5,
+        "A": true
+    },
+    "218": {
+        "IdG": "7",
+        "N": "Game Score 0:1",
+        "T": 5,
+        "A": true
+    },
+    "219": {
+        "IdG": "7",
+        "N": "Game Score 0:2",
+        "T": 5,
+        "A": true
+    },
+    "220": {
+        "IdG": "7",
+        "N": "Game Score 0:3",
+        "T": 5,
+        "A": true
+    },
+    "221": {
+        "IdG": "7",
+        "N": "Game Score 0:4",
+        "T": 5,
+        "A": true
+    },
+    "222": {
+        "IdG": "7",
+        "N": "Game Score 0:5",
+        "T": 5,
+        "A": true
+    },
+    "223": {
+        "IdG": "7",
+        "N": "Game Score 0:6",
+        "T": 5,
+        "A": true
+    },
+    "224": {
+        "IdG": "7",
+        "N": "Game Score 0:7",
+        "T": 5,
+        "A": true
+    },
+    "225": {
+        "IdG": "7",
+        "N": "Game Score 0:8",
+        "T": 5,
+        "A": true
+    },
+    "226": {
+        "IdG": "7",
+        "N": "Game Score 0:9",
+        "T": 5,
+        "A": true
+    },
+    "227": {
+        "IdG": "7",
+        "N": "Game Score 0:10",
+        "T": 5,
+        "A": true
+    },
+    "228": {
+        "IdG": "7",
+        "N": "Game Score 1:0",
+        "T": 5,
+        "A": true
+    },
+    "229": {
+        "IdG": "7",
+        "N": "Game Score 1:1",
+        "T": 5,
+        "A": true
+    },
+    "230": {
+        "IdG": "7",
+        "N": "Game Score 1:2",
+        "T": 5,
+        "A": true
+    },
+    "231": {
+        "IdG": "7",
+        "N": "Game Score 1:3",
+        "T": 5,
+        "A": true
+    },
+    "232": {
+        "IdG": "7",
+        "N": "Game Score 1:4",
+        "T": 5,
+        "A": true
+    },
+    "233": {
+        "IdG": "7",
+        "N": "Game Score 1:5",
+        "T": 5,
+        "A": true
+    },
+    "234": {
+        "IdG": "7",
+        "N": "Game Score 1:6",
+        "T": 5,
+        "A": true
+    },
+    "235": {
+        "IdG": "7",
+        "N": "Game Score 1:7",
+        "T": 5,
+        "A": true
+    },
+    "236": {
+        "IdG": "7",
+        "N": "Game Score 1:8",
+        "T": 5,
+        "A": true
+    },
+    "237": {
+        "IdG": "7",
+        "N": "Game Score 1:9",
+        "T": 5,
+        "A": true
+    },
+    "238": {
+        "IdG": "7",
+        "N": "Game Score 1:10",
+        "T": 5,
+        "A": true
+    },
+    "239": {
+        "IdG": "7",
+        "N": "Game Score 2:0",
+        "T": 5,
+        "A": true
+    },
+    "240": {
+        "IdG": "7",
+        "N": "Game Score 3:0",
+        "T": 5,
+        "A": true
+    },
+    "241": {
+        "IdG": "7",
+        "N": "Game Score 2:1",
+        "T": 5,
+        "A": true
+    },
+    "242": {
+        "IdG": "7",
+        "N": "Game Score 2:2",
+        "T": 5,
+        "A": true
+    },
+    "243": {
+        "IdG": "7",
+        "N": "Game Score 2:3",
+        "T": 5,
+        "A": true
+    },
+    "244": {
+        "IdG": "7",
+        "N": "Game Score 2:4",
+        "T": 5,
+        "A": true
+    },
+    "245": {
+        "IdG": "7",
+        "N": "Game Score 2:5",
+        "T": 5,
+        "A": true
+    },
+    "246": {
+        "IdG": "7",
+        "N": "Game Score 2:6",
+        "T": 5,
+        "A": true
+    },
+    "247": {
+        "IdG": "7",
+        "N": "Game Score 2:7",
+        "T": 5,
+        "A": true
+    },
+    "248": {
+        "IdG": "7",
+        "N": "Game Score 2:8",
+        "T": 5,
+        "A": true
+    },
+    "249": {
+        "IdG": "7",
+        "N": "Game Score 2:9",
+        "T": 5,
+        "A": true
+    },
+    "250": {
+        "IdG": "7",
+        "N": "Game Score 2:10",
+        "T": 5,
+        "A": true
+    },
+    "251": {
+        "IdG": "7",
+        "N": "Game Score 3:1",
+        "T": 5,
+        "A": true
+    },
+    "252": {
+        "IdG": "7",
+        "N": "Game Score 3:2",
+        "T": 5,
+        "A": true
+    },
+    "253": {
+        "IdG": "7",
+        "N": "Game Score 3:3",
+        "T": 5,
+        "A": true
+    },
+    "254": {
+        "IdG": "7",
+        "N": "Game Score 3:4",
+        "T": 5,
+        "A": true
+    },
+    "255": {
+        "IdG": "7",
+        "N": "Game Score 3:5",
+        "T": 5,
+        "A": true
+    },
+    "256": {
+        "IdG": "7",
+        "N": "Game Score 3:6",
+        "T": 5,
+        "A": true
+    },
+    "257": {
+        "IdG": "7",
+        "N": "Game Score 3:7",
+        "T": 5,
+        "A": true
+    },
+    "258": {
+        "IdG": "7",
+        "N": "Game Score 3:8",
+        "T": 5,
+        "A": true
+    },
+    "259": {
+        "IdG": "7",
+        "N": "Game Score 3:9",
+        "T": 5,
+        "A": true
+    },
+    "260": {
+        "IdG": "7",
+        "N": "Game Score 3:10",
+        "T": 5,
+        "A": true
+    },
+    "261": {
+        "IdG": "7",
+        "N": "Game Score 4:0",
+        "T": 5,
+        "A": true
+    },
+    "262": {
+        "IdG": "7",
+        "N": "Game Score 4:1",
+        "T": 5,
+        "A": true
+    },
+    "263": {
+        "IdG": "7",
+        "N": "Game Score 4:2",
+        "T": 5,
+        "A": true
+    },
+    "264": {
+        "IdG": "7",
+        "N": "Game Score 4:3",
+        "T": 5,
+        "A": true
+    },
+    "265": {
+        "IdG": "7",
+        "N": "Game Score 4:4",
+        "T": 5,
+        "A": true
+    },
+    "266": {
+        "IdG": "7",
+        "N": "Game Score 4:5",
+        "T": 5,
+        "A": true
+    },
+    "267": {
+        "IdG": "7",
+        "N": "Game Score 4:6",
+        "T": 5,
+        "A": true
+    },
+    "268": {
+        "IdG": "7",
+        "N": "Game Score 4:7",
+        "T": 5,
+        "A": true
+    },
+    "269": {
+        "IdG": "7",
+        "N": "Game Score 4:8",
+        "T": 5,
+        "A": true
+    },
+    "270": {
+        "IdG": "7",
+        "N": "Game Score 4:9",
+        "T": 5,
+        "A": true
+    },
+    "271": {
+        "IdG": "7",
+        "N": "Game Score 4:10",
+        "T": 5,
+        "A": true
+    },
+    "272": {
+        "IdG": "7",
+        "N": "Game Score 5:0",
+        "T": 5,
+        "A": true
+    },
+    "273": {
+        "IdG": "7",
+        "N": "Game Score 5:1",
+        "T": 5,
+        "A": true
+    },
+    "274": {
+        "IdG": "7",
+        "N": "Game Score 5:2",
+        "T": 5,
+        "A": true
+    },
+    "275": {
+        "IdG": "7",
+        "N": "Game Score 5:3",
+        "T": 5,
+        "A": true
+    },
+    "276": {
+        "IdG": "7",
+        "N": "Game Score 5:4",
+        "T": 5,
+        "A": true
+    },
+    "277": {
+        "IdG": "7",
+        "N": "Game Score 5:5",
+        "T": 5,
+        "A": true
+    },
+    "278": {
+        "IdG": "7",
+        "N": "Game Score 5:6",
+        "T": 5,
+        "A": true
+    },
+    "279": {
+        "IdG": "7",
+        "N": "Game Score 5:7",
+        "T": 5,
+        "A": true
+    },
+    "280": {
+        "IdG": "7",
+        "N": "Game Score 5:8",
+        "T": 5,
+        "A": true
+    },
+    "281": {
+        "IdG": "7",
+        "N": "Game Score 5:9",
+        "T": 5,
+        "A": true
+    },
+    "282": {
+        "IdG": "7",
+        "N": "Game Score 5:10",
+        "T": 5,
+        "A": true
+    },
+    "283": {
+        "IdG": "7",
+        "N": "Game Score 6:0",
+        "T": 5,
+        "A": true
+    },
+    "284": {
+        "IdG": "7",
+        "N": "Game Score 6:1",
+        "T": 5,
+        "A": true
+    },
+    "285": {
+        "IdG": "7",
+        "N": "Game Score 6:2",
+        "T": 5,
+        "A": true
+    },
+    "286": {
+        "IdG": "7",
+        "N": "Game Score 6:3",
+        "T": 5,
+        "A": true
+    },
+    "287": {
+        "IdG": "7",
+        "N": "Game Score 6:4",
+        "T": 5,
+        "A": true
+    },
+    "288": {
+        "IdG": "7",
+        "N": "Game Score 6:5",
+        "T": 5,
+        "A": true
+    },
+    "289": {
+        "IdG": "7",
+        "N": "Game Score 6:6",
+        "T": 5,
+        "A": true
+    },
+    "290": {
+        "IdG": "7",
+        "N": "Game Score 6:7",
+        "T": 5,
+        "A": true
+    },
+    "291": {
+        "IdG": "7",
+        "N": "Game Score 6:8",
+        "T": 5,
+        "A": true
+    },
+    "292": {
+        "IdG": "7",
+        "N": "Game Score 6:9",
+        "T": 5,
+        "A": true
+    },
+    "293": {
+        "IdG": "7",
+        "N": "Game Score 6:10",
+        "T": 5,
+        "A": true
+    },
+    "294": {
+        "IdG": "7",
+        "N": "Game Score 7:0",
+        "T": 5,
+        "A": true
+    },
+    "295": {
+        "IdG": "7",
+        "N": "Game Score 7:1",
+        "T": 5,
+        "A": true
+    },
+    "296": {
+        "IdG": "7",
+        "N": "Game Score 7:2",
+        "T": 5,
+        "A": true
+    },
+    "297": {
+        "IdG": "7",
+        "N": "Game Score 7:3",
+        "T": 5,
+        "A": true
+    },
+    "298": {
+        "IdG": "7",
+        "N": "Game Score 7:4",
+        "T": 5,
+        "A": true
+    },
+    "299": {
+        "IdG": "7",
+        "N": "Game Score 7:5",
+        "T": 5,
+        "A": true
+    },
+    "300": {
+        "IdG": "7",
+        "N": "Game Score 7:6",
+        "T": 5,
+        "A": true
+    },
+    "301": {
+        "IdG": "7",
+        "N": "Game Score 7:7",
+        "T": 5,
+        "A": true
+    },
+    "302": {
+        "IdG": "7",
+        "N": "Game Score 7:8",
+        "T": 5,
+        "A": true
+    },
+    "303": {
+        "IdG": "7",
+        "N": "Game Score 7:9",
+        "T": 5,
+        "A": true
+    },
+    "304": {
+        "IdG": "7",
+        "N": "Game Score 7:10",
+        "T": 5,
+        "A": true
+    },
+    "305": {
+        "IdG": "7",
+        "N": "Game Score 8:0",
+        "T": 5,
+        "A": true
+    },
+    "306": {
+        "IdG": "7",
+        "N": "Game Score 8:1",
+        "T": 5,
+        "A": true
+    },
+    "307": {
+        "IdG": "7",
+        "N": "Game Score 8:2",
+        "T": 5,
+        "A": true
+    },
+    "308": {
+        "IdG": "7",
+        "N": "Game Score 8:3",
+        "T": 5,
+        "A": true
+    },
+    "309": {
+        "IdG": "7",
+        "N": "Game Score 8:4",
+        "T": 5,
+        "A": true
+    },
+    "310": {
+        "IdG": "7",
+        "N": "Game Score 8:5",
+        "T": 5,
+        "A": true
+    },
+    "311": {
+        "IdG": "7",
+        "N": "Game Score 8:6",
+        "T": 5,
+        "A": true
+    },
+    "312": {
+        "IdG": "7",
+        "N": "Game Score 8:7",
+        "T": 5,
+        "A": true
+    },
+    "313": {
+        "IdG": "7",
+        "N": "Game Score 8:8",
+        "T": 5,
+        "A": true
+    },
+    "314": {
+        "IdG": "7",
+        "N": "Game Score 8:9",
+        "T": 5,
+        "A": true
+    },
+    "315": {
+        "IdG": "7",
+        "N": "Game Score 8:10",
+        "T": 5,
+        "A": true
+    },
+    "316": {
+        "IdG": "7",
+        "N": "Game Score 9:0",
+        "T": 5,
+        "A": true
+    },
+    "317": {
+        "IdG": "7",
+        "N": "Game Score 9:1",
+        "T": 5,
+        "A": true
+    },
+    "318": {
+        "IdG": "7",
+        "N": "Game Score 9:2",
+        "T": 5,
+        "A": true
+    },
+    "319": {
+        "IdG": "7",
+        "N": "Game Score 9:3",
+        "T": 5,
+        "A": true
+    },
+    "320": {
+        "IdG": "7",
+        "N": "Game Score 9:4",
+        "T": 5,
+        "A": true
+    },
+    "321": {
+        "IdG": "7",
+        "N": "Game Score 9:5",
+        "T": 5,
+        "A": true
+    },
+    "322": {
+        "IdG": "7",
+        "N": "Game Score 9:6",
+        "T": 5,
+        "A": true
+    },
+    "323": {
+        "IdG": "7",
+        "N": "Game Score 9:7",
+        "T": 5,
+        "A": true
+    },
+    "324": {
+        "IdG": "7",
+        "N": "Game Score 9:8",
+        "T": 5,
+        "A": true
+    },
+    "325": {
+        "IdG": "7",
+        "N": "Game Score 9:9",
+        "T": 5,
+        "A": true
+    },
+    "326": {
+        "IdG": "7",
+        "N": "Game Score 9:10",
+        "T": 5,
+        "A": true
+    },
+    "327": {
+        "IdG": "7",
+        "N": "Game Score 10-0",
+        "T": 5,
+        "A": true
+    },
+    "328": {
+        "IdG": "7",
+        "N": "Game Score 10:1",
+        "T": 5,
+        "A": true
+    },
+    "329": {
+        "IdG": "7",
+        "N": "Game Score 10:2",
+        "T": 5,
+        "A": true
+    },
+    "330": {
+        "IdG": "7",
+        "N": "Game Score 10:3",
+        "T": 5,
+        "A": true
+    },
+    "331": {
+        "IdG": "7",
+        "N": "Game Score 10:4",
+        "T": 5,
+        "A": true
+    },
+    "332": {
+        "IdG": "7",
+        "N": "Game Score 10:5",
+        "T": 5,
+        "A": true
+    },
+    "333": {
+        "IdG": "7",
+        "N": "Game Score 10:6",
+        "T": 5,
+        "A": true
+    },
+    "334": {
+        "IdG": "7",
+        "N": "Game Score 10:7",
+        "T": 5,
+        "A": true
+    },
+    "335": {
+        "IdG": "7",
+        "N": "Game Score 10:8",
+        "T": 5,
+        "A": true
+    },
+    "336": {
+        "IdG": "7",
+        "N": "Game Score 10:9",
+        "T": 5,
+        "A": true
+    },
+    "337": {
+        "IdG": "7",
+        "N": "Game Score 10:10",
+        "T": 5,
+        "A": true
+    },
+    "10623": {
+        "IdG": "7",
+        "N": "Any Other Score",
+        "T": 1,
+        "A": true
+    },
+    "3537": {
+        "IdG": "7",
+        "N": "Correct Score ():() Or ():() - Yes",
+        "T": 81,
+        "A": true
+    },
+    "3538": {
+        "IdG": "7",
+        "N": "Correct Score ():() Or ():() - No",
+        "T": 81,
+        "A": true
+    },
+    "4": {
+        "IdG": "8",
+        "N": "^1^ Or X",
+        "T": 1,
+        "A": true
+    },
+    "5": {
+        "IdG": "8",
+        "N": "^1^ Or ^2^",
+        "T": 1,
+        "A": true
+    },
+    "6": {
+        "IdG": "8",
+        "N": "^2^ Or X",
+        "T": 1,
+        "A": true
+    },
+    "178": {
+        "IdG": "9",
+        "N": "Draw 0-0 - Yes",
+        "T": 1,
+        "A": true
+    },
+    "215": {
+        "IdG": "9",
+        "N": "Draw 0-0 - No",
+        "T": 1,
+        "A": true
+    },
+    "2185": {
+        "IdG": "9",
+        "N": "Game To End In A Tie - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2186": {
+        "IdG": "9",
+        "N": "Game To End In A Tie - No",
+        "T": 1,
+        "A": true
+    },
+    "4395": {
+        "IdG": "10",
+        "N": "W ^1^ And Total > ()",
+        "T": 3,
+        "A": true
+    },
+    "4396": {
+        "IdG": "10",
+        "N": "W ^1^ And Total < ()",
+        "T": 3,
+        "A": true
+    },
+    "4397": {
+        "IdG": "10",
+        "N": "W ^2^ And Total > ()",
+        "T": 3,
+        "A": true
+    },
+    "4398": {
+        "IdG": "10",
+        "N": "W ^2^ And Total < ()",
+        "T": 3,
+        "A": true
+    },
+    "4401": {
+        "IdG": "10",
+        "N": "Draw And Total > ()",
+        "T": 3,
+        "A": true
+    },
+    "4402": {
+        "IdG": "10",
+        "N": "Draw And Total < ()",
+        "T": 3,
+        "A": true
+    },
+    "3527": {
+        "IdG": "11",
+        "N": "HT-FT W ^1 ^/W ^2^ X - Yes",
+        "T": 1,
+        "A": true
+    },
+    "3528": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ /W ^2^ X - No",
+        "T": 1,
+        "A": true
+    },
+    "3529": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ /W ^1^ X - Yes",
+        "T": 1,
+        "A": true
+    },
+    "3530": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ /W ^1^ X - No",
+        "T": 1,
+        "A": true
+    },
+    "4864": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ /W ^1^ X - Yes",
+        "T": 1,
+        "A": true
+    },
+    "4865": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ /W ^1^ X - No",
+        "T": 1,
+        "A": true
+    },
+    "4866": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ /W ^2^ X - Yes",
+        "T": 1,
+        "A": true
+    },
+    "4867": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ /W ^2^ X - No",
+        "T": 1,
+        "A": true
+    },
+    "15": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ W ^1^",
+        "T": 1,
+        "A": true
+    },
+    "16": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ X",
+        "T": 1,
+        "A": true
+    },
+    "17": {
+        "IdG": "11",
+        "N": "HT-FT W ^1^ W ^2^",
+        "T": 1,
+        "A": true
+    },
+    "18": {
+        "IdG": "11",
+        "N": "HT-FT XW ^1^",
+        "T": 1,
+        "A": true
+    },
+    "19": {
+        "IdG": "11",
+        "N": "HT-FT XX",
+        "T": 1,
+        "A": true
+    },
+    "20": {
+        "IdG": "11",
+        "N": "HT-FT XW ^2^",
+        "T": 1,
+        "A": true
+    },
+    "21": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ W ^1^",
+        "T": 1,
+        "A": true
+    },
+    "22": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ X",
+        "T": 1,
+        "A": true
+    },
+    "23": {
+        "IdG": "11",
+        "N": "HT-FT W ^2^ W ^2^",
+        "T": 1,
+        "A": true
+    },
+    "2858": {
+        "IdG": "11",
+        "N": "HT-FT ^1^/^2^ X",
+        "T": 1,
+        "A": true
+    },
+    "2859": {
+        "IdG": "11",
+        "N": "HT-FT ^2^/^1^ X",
+        "T": 1,
+        "A": true
+    },
+    "68": {
+        "IdG": "12",
+        "N": "Goal From 0 To 15th Minute - Yes",
+        "T": 3,
+        "A": true
+    },
+    "70": {
+        "IdG": "12",
+        "N": "Goal From 16th To 30th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "72": {
+        "IdG": "12",
+        "N": "Goal From 31st Minute To Half Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "74": {
+        "IdG": "12",
+        "N": "Goal From 46th To 60th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "76": {
+        "IdG": "12",
+        "N": "Goal From 61st To 75th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "350": {
+        "IdG": "12",
+        "N": "^1^ To Score From 1st To 15th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "352": {
+        "IdG": "12",
+        "N": "^1^ To Score From 16th To 30th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "354": {
+        "IdG": "12",
+        "N": "^1^ To Score From 31st Minute To Half Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "356": {
+        "IdG": "12",
+        "N": "^1^ To Score From 46th To 60th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "358": {
+        "IdG": "12",
+        "N": "^1^ To Score From 61st To 75th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "360": {
+        "IdG": "12",
+        "N": "^1^ To Score From 76th Minute To Full Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "362": {
+        "IdG": "12",
+        "N": "^2^ Goal In 1st To 15th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "364": {
+        "IdG": "12",
+        "N": "^2^ Goal In 16th To 30th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "366": {
+        "IdG": "12",
+        "N": "^2^ Goal In 31st Minute To Half Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "368": {
+        "IdG": "12",
+        "N": "^2^ Goal In 46th To 60th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "370": {
+        "IdG": "12",
+        "N": "^2^ Goal In 61st To 75th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "372": {
+        "IdG": "12",
+        "N": "^2^ Goal In 76th Minute To Full Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "380": {
+        "IdG": "12",
+        "N": "Goal From 1st To 5th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "382": {
+        "IdG": "12",
+        "N": "Goal From 6th To 10th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "384": {
+        "IdG": "12",
+        "N": "Goal From 11th To 15th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "386": {
+        "IdG": "12",
+        "N": "Goal From 16th To 20th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "630": {
+        "IdG": "12",
+        "N": "Match Goal () From 0 To 15th Minute",
+        "T": 3,
+        "A": true
+    },
+    "631": {
+        "IdG": "12",
+        "N": "Match Goal () From 16th To 30th Minute",
+        "T": 3,
+        "A": true
+    },
+    "632": {
+        "IdG": "12",
+        "N": "Match Goal () From 31st Minute To Half Time",
+        "T": 3,
+        "A": true
+    },
+    "633": {
+        "IdG": "12",
+        "N": "Match Goal () From 46th To 60th Minute",
+        "T": 3,
+        "A": true
+    },
+    "634": {
+        "IdG": "12",
+        "N": "Match Goal () From 61st To 75th Minute",
+        "T": 3,
+        "A": true
+    },
+    "635": {
+        "IdG": "12",
+        "N": "Match Goal () From 76th Minute Or Later",
+        "T": 3,
+        "A": true
+    },
+    "636": {
+        "IdG": "12",
+        "N": "No Match Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "2951": {
+        "IdG": "12",
+        "N": "^1^ To Score From () To () Minute - Yes",
+        "T": 5,
+        "A": true
+    },
+    "2952": {
+        "IdG": "12",
+        "N": "^2^ To Score From () To () Minute - Yes",
+        "T": 5,
+        "A": true
+    },
+    "4399": {
+        "IdG": "12",
+        "N": "Goal Number () From () To () Minute",
+        "T": 35,
+        "A": true
+    },
+    "4400": {
+        "IdG": "12",
+        "N": "Goal Number () From () Minute Or Later",
+        "T": 5,
+        "A": true
+    },
+    "67": {
+        "IdG": "13",
+        "N": "Goal () From 0 To 15th Minute - No",
+        "T": 3,
+        "A": true
+    },
+    "69": {
+        "IdG": "13",
+        "N": "Goal () From 16th To 30th Minute - No",
+        "T": 3,
+        "A": true
+    },
+    "71": {
+        "IdG": "13",
+        "N": "Goal () From 31st To 45th Minute - No",
+        "T": 3,
+        "A": true
+    },
+    "73": {
+        "IdG": "13",
+        "N": "Goal () From 46th To 60th Minute - No",
+        "T": 3,
+        "A": true
+    },
+    "75": {
+        "IdG": "13",
+        "N": "Goal () From 61st To 75th Minute - No",
+        "T": 3,
+        "A": true
+    },
+    "351": {
+        "IdG": "13",
+        "N": "^1^ To Score From 1st To 15th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "353": {
+        "IdG": "13",
+        "N": "^1^ To Score From 16th To 30th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "355": {
+        "IdG": "13",
+        "N": "^1^ To Score From 31st Minute To Half Time - No",
+        "T": 1,
+        "A": true
+    },
+    "357": {
+        "IdG": "13",
+        "N": "^1^ To Score From 46th To 60th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "359": {
+        "IdG": "13",
+        "N": "^1^ To Score From 61st To 75th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "361": {
+        "IdG": "13",
+        "N": "^1^ To Score From 76th Minute To Full Time - No",
+        "T": 1,
+        "A": true
+    },
+    "363": {
+        "IdG": "13",
+        "N": "^2^ To Score From 1st To 15th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "365": {
+        "IdG": "13",
+        "N": "^2^ To Score From 16th To 30th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "367": {
+        "IdG": "13",
+        "N": "^2^ To Score From 31st Minute To Half Time - No",
+        "T": 1,
+        "A": true
+    },
+    "369": {
+        "IdG": "13",
+        "N": "^2^ To Score From 46th To 60th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "371": {
+        "IdG": "13",
+        "N": "^2^ To Score From 61st To 75th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "373": {
+        "IdG": "13",
+        "N": "^2^ To Score From 76th Minute To Full Time - No",
+        "T": 1,
+        "A": true
+    },
+    "381": {
+        "IdG": "13",
+        "N": "Goal 1st To 5th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "383": {
+        "IdG": "13",
+        "N": "Goal 6th To 10th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "385": {
+        "IdG": "13",
+        "N": "Goal 11th To 15th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "387": {
+        "IdG": "13",
+        "N": "Goal 16th To 20th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "2953": {
+        "IdG": "13",
+        "N": "^1^ To Score From () To () Minute - No",
+        "T": 5,
+        "A": true
+    },
+    "2954": {
+        "IdG": "13",
+        "N": "^2^ To Score From () To () Minute - No",
+        "T": 5,
+        "A": true
+    },
+    "182": {
+        "IdG": "14",
+        "N": "Total Even - Yes",
+        "T": 1,
+        "A": true
+    },
+    "183": {
+        "IdG": "14",
+        "N": "Total Even - No",
+        "T": 1,
+        "A": true
+    },
+    "11": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "12": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "63": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "64": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "146": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "147": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "148": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "149": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "150": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "151": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "152": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "153": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "154": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "155": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "156": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "157": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "158": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "159": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "160": {
+        "IdG": "15",
+        "N": "Individual Total 1 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "161": {
+        "IdG": "15",
+        "N": "Individual Total 1 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "391": {
+        "IdG": "16",
+        "N": "Who Will Score A Try? ^1^",
+        "T": 1,
+        "A": true
+    },
+    "392": {
+        "IdG": "16",
+        "N": "Who Will Score A Try? ^2^",
+        "T": 1,
+        "A": true
+    },
+    "393": {
+        "IdG": "16",
+        "N": "Who Will Score A Try? Neither Team",
+        "T": 1,
+        "A": true
+    },
+    "9": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "10": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "87": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "88": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "89": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "90": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "91": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "92": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "93": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "94": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "95": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "96": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "97": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "98": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "99": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "100": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "101": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "102": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "103": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "104": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "105": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "106": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "107": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "108": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "113": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "114": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "117": {
+        "IdG": "17",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "118": {
+        "IdG": "17",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "188": {
+        "IdG": "18",
+        "N": "1st Half > 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "189": {
+        "IdG": "18",
+        "N": "1st Half = 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "190": {
+        "IdG": "18",
+        "N": "1st Half < 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "180": {
+        "IdG": "19",
+        "N": "Both Teams To Score - Yes",
+        "T": 1,
+        "A": true
+    },
+    "181": {
+        "IdG": "19",
+        "N": "Both Teams To Score - No",
+        "T": 1,
+        "A": true
+    },
+    "11273": {
+        "IdG": "19",
+        "N": "Each Team To Score () Or More - Yes",
+        "T": 3,
+        "A": true
+    },
+    "11274": {
+        "IdG": "19",
+        "N": "Each Team To Score () Or More - No",
+        "T": 3,
+        "A": true
+    },
+    "60": {
+        "IdG": "20",
+        "N": "^1^ To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "61": {
+        "IdG": "20",
+        "N": "^2^ To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "62": {
+        "IdG": "20",
+        "N": "Neither Team To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "388": {
+        "IdG": "20",
+        "N": "^1^ To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "389": {
+        "IdG": "20",
+        "N": "^2^ To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "390": {
+        "IdG": "20",
+        "N": "Neither Team To Score Next Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "40": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "41": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "42": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "43": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "44": {
+        "IdG": "21",
+        "N": "The Receiver To Win Game () With Any Score",
+        "T": 3,
+        "A": true
+    },
+    "45": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "46": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "47": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "48": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "49": {
+        "IdG": "21",
+        "N": "The Receiver To Win Game () With Any Score",
+        "T": 3,
+        "A": true
+    },
+    "542": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "543": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "544": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "545": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "546": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "547": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "548": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "549": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "550": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "551": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "552": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "553": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "554": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "555": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "556": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "557": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "558": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "559": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "560": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "561": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "562": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "563": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "564": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "565": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "566": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "567": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "568": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "569": {
+        "IdG": "21",
+        "N": "^1^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "570": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:0",
+        "T": 3,
+        "A": true
+    },
+    "571": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:15",
+        "T": 3,
+        "A": true
+    },
+    "572": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () 40:30",
+        "T": 3,
+        "A": true
+    },
+    "573": {
+        "IdG": "21",
+        "N": "^2^ To Win Game () After 40:40",
+        "T": 3,
+        "A": true
+    },
+    "50": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "51": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "52": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "53": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "54": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "55": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "56": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "57": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "702": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "703": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "704": {
+        "IdG": "22",
+        "N": "^1^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "705": {
+        "IdG": "22",
+        "N": "^2^ To Win Game ()",
+        "T": 3,
+        "A": true
+    },
+    "58": {
+        "IdG": "23",
+        "N": "^1^ To Win Set ()",
+        "T": 3,
+        "A": true
+    },
+    "59": {
+        "IdG": "23",
+        "N": "^2^ To Win Set ()",
+        "T": 3,
+        "A": true
+    },
+    "374": {
+        "IdG": "24",
+        "N": "^1^  To Win Inning ()",
+        "T": 3,
+        "A": true
+    },
+    "375": {
+        "IdG": "24",
+        "N": "^2^  To Win Inning ()",
+        "T": 3,
+        "A": true
+    },
+    "376": {
+        "IdG": "24",
+        "N": "Inning () Drawn",
+        "T": 3,
+        "A": true
+    },
+    "377": {
+        "IdG": "24",
+        "N": "^1^  To Win Inning ()",
+        "T": 3,
+        "A": true
+    },
+    "378": {
+        "IdG": "24",
+        "N": "^2^  To Win Inning ()",
+        "T": 3,
+        "A": true
+    },
+    "379": {
+        "IdG": "24",
+        "N": "Inning () Drawn",
+        "T": 3,
+        "A": true
+    },
+    "123": {
+        "IdG": "25",
+        "N": "^1^ To Win Including Overtime And Penalty Shootouts",
+        "T": 1,
+        "A": true
+    },
+    "124": {
+        "IdG": "25",
+        "N": "^2^ To Win Including Overtime And Penalty Shootouts",
+        "T": 1,
+        "A": true
+    },
+    "709": {
+        "IdG": "25",
+        "N": "Higher At The End Of The Tournament - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "711": {
+        "IdG": "25",
+        "N": "Higher At The End Of The Tournament - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "396": {
+        "IdG": "26",
+        "N": "[] Wins - Yes",
+        "T": 7,
+        "A": true
+    },
+    "397": {
+        "IdG": "26",
+        "N": "[] Wins - No",
+        "T": 7,
+        "A": true
+    },
+    "2637": {
+        "IdG": "26",
+        "N": "Winner - []",
+        "T": 7,
+        "A": true
+    },
+    "12061": {
+        "IdG": "26",
+        "N": "[] - Leader After First Round And [] - Winner",
+        "T": 91,
+        "A": true
+    },
+    "12670": {
+        "IdG": "26",
+        "N": "No.(). [] To Win",
+        "T": 9,
+        "A": true
+    },
+    "12874": {
+        "IdG": "26",
+        "N": "Neither",
+        "T": 1,
+        "A": true
+    },
+    "12959": {
+        "IdG": "26",
+        "N": "No.(). [] To Win (SP)",
+        "T": 9,
+        "A": true
+    },
+    "424": {
+        "IdG": "27",
+        "N": "European Handicap () ^1^",
+        "T": 41,
+        "A": true
+    },
+    "425": {
+        "IdG": "27",
+        "N": "European Handicap () X",
+        "T": 41,
+        "A": true
+    },
+    "426": {
+        "IdG": "27",
+        "N": "European Handicap () ^2^",
+        "T": 41,
+        "A": true
+    },
+    "427": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 41,
+        "A": true
+    },
+    "428": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 3,
+        "A": true
+    },
+    "429": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "430": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 3,
+        "A": true
+    },
+    "431": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 3,
+        "A": true
+    },
+    "432": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "433": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 3,
+        "A": true
+    },
+    "434": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 3,
+        "A": true
+    },
+    "435": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "436": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 3,
+        "A": true
+    },
+    "437": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 3,
+        "A": true
+    },
+    "438": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "674": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "675": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 5,
+        "A": true
+    },
+    "676": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "677": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "678": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 5,
+        "A": true
+    },
+    "679": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "680": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "681": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 5,
+        "A": true
+    },
+    "682": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "683": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "684": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 5,
+        "A": true
+    },
+    "685": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "686": {
+        "IdG": "27",
+        "N": "Handicap () W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "687": {
+        "IdG": "27",
+        "N": "Handicap () X",
+        "T": 5,
+        "A": true
+    },
+    "688": {
+        "IdG": "27",
+        "N": "Handicap () W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "439": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "440": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "441": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "442": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "443": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "444": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "445": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "446": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "447": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "448": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "449": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "450": {
+        "IdG": "28",
+        "N": "Total [()|from () to ()|() or more] - Yes",
+        "T": 5,
+        "A": true
+    },
+    "1375": {
+        "IdG": "28",
+        "N": "Total Interval [()| From () To ()|() or more] - No",
+        "T": 5,
+        "A": true
+    },
+    "1709": {
+        "IdG": "28",
+        "N": "Total () Or More - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1710": {
+        "IdG": "28",
+        "N": "Total () Or More - No",
+        "T": 3,
+        "A": true
+    },
+    "1737": {
+        "IdG": "28",
+        "N": "Total From () To () - Yes",
+        "T": 5,
+        "A": true
+    },
+    "1738": {
+        "IdG": "28",
+        "N": "Total From () To () - No",
+        "T": 5,
+        "A": true
+    },
+    "1770": {
+        "IdG": "28",
+        "N": "Total () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1771": {
+        "IdG": "28",
+        "N": "Total () - No",
+        "T": 3,
+        "A": true
+    },
+    "2329": {
+        "IdG": "28",
+        "N": "Total () Or Less - Yes",
+        "T": 3,
+        "A": true
+    },
+    "2330": {
+        "IdG": "28",
+        "N": "Total () Or Less - No",
+        "T": 3,
+        "A": true
+    },
+    "3831": {
+        "IdG": "28",
+        "N": "No Goals",
+        "T": 1,
+        "A": true
+    },
+    "3592": {
+        "IdG": "29",
+        "N": "^1^ Total () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "3593": {
+        "IdG": "29",
+        "N": "^1^ Total () - No",
+        "T": 3,
+        "A": true
+    },
+    "3594": {
+        "IdG": "29",
+        "N": "^1^ Total From () To () - Yes",
+        "T": 5,
+        "A": true
+    },
+    "3595": {
+        "IdG": "29",
+        "N": "^1^ Total From () To () - No",
+        "T": 5,
+        "A": true
+    },
+    "4208": {
+        "IdG": "29",
+        "N": "Individual Total ^1^ () And Less",
+        "T": 3,
+        "A": true
+    },
+    "451": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "452": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "453": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "454": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "455": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "456": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "457": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "458": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "459": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "460": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "461": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "462": {
+        "IdG": "29",
+        "N": "Individual Total 1 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "1711": {
+        "IdG": "29",
+        "N": "Individual Total ^1^ () Or More",
+        "T": 3,
+        "A": true
+    },
+    "1739": {
+        "IdG": "29",
+        "N": "Individual Total ^1^ From () To ()",
+        "T": 5,
+        "A": true
+    },
+    "1772": {
+        "IdG": "29",
+        "N": "Individual Total ^1^ ()",
+        "T": 3,
+        "A": true
+    },
+    "463": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "464": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "465": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "466": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "467": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "468": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "469": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "470": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "471": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "472": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "473": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "474": {
+        "IdG": "30",
+        "N": "Individual Total 2 [()|from () to ()|() or more]",
+        "T": 5,
+        "A": true
+    },
+    "1712": {
+        "IdG": "30",
+        "N": "Individual Total ^2^ () Or More",
+        "T": 3,
+        "A": true
+    },
+    "1740": {
+        "IdG": "30",
+        "N": "Individual Total ^2^ From () To ()",
+        "T": 5,
+        "A": true
+    },
+    "1773": {
+        "IdG": "30",
+        "N": "Individual Total ^2^ ()",
+        "T": 3,
+        "A": true
+    },
+    "3596": {
+        "IdG": "30",
+        "N": "^2^ Total () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "3597": {
+        "IdG": "30",
+        "N": "^2^ Total () - No",
+        "T": 3,
+        "A": true
+    },
+    "3598": {
+        "IdG": "30",
+        "N": "^2^ Total From () To () - Yes",
+        "T": 5,
+        "A": true
+    },
+    "3599": {
+        "IdG": "30",
+        "N": "^2^ Total From () To () - No",
+        "T": 5,
+        "A": true
+    },
+    "4209": {
+        "IdG": "30",
+        "N": "Individual Total ^2^ () And Less",
+        "T": 3,
+        "A": true
+    },
+    "478": {
+        "IdG": "32",
+        "N": "Goals Scored In Both Halves - Yes",
+        "T": 1,
+        "A": true
+    },
+    "479": {
+        "IdG": "32",
+        "N": "Goals Scored In Both Halves - No",
+        "T": 1,
+        "A": true
+    },
+    "979": {
+        "IdG": "33",
+        "N": "First Match Goal From () To () Minute - Yes",
+        "T": 5,
+        "A": true
+    },
+    "980": {
+        "IdG": "33",
+        "N": "First Match Goal From () To () Minute - No",
+        "T": 5,
+        "A": true
+    },
+    "1858": {
+        "IdG": "33",
+        "N": "^1^ To Score First Goal",
+        "T": 1,
+        "A": true
+    },
+    "1859": {
+        "IdG": "33",
+        "N": "^2^ To Score First Goal",
+        "T": 1,
+        "A": true
+    },
+    "1882": {
+        "IdG": "33",
+        "N": "First Match Goal From () To () Minute - Yes",
+        "T": 5,
+        "A": true
+    },
+    "1883": {
+        "IdG": "33",
+        "N": "First Match Goal From () To () Minute - No",
+        "T": 5,
+        "A": true
+    },
+    "1884": {
+        "IdG": "33",
+        "N": "First Match Goal From () Min Or Later - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1885": {
+        "IdG": "33",
+        "N": "First Match Goal From () Min Or Later - No",
+        "T": 3,
+        "A": true
+    },
+    "4415": {
+        "IdG": "33",
+        "N": "No First Goal",
+        "T": 1,
+        "A": true
+    },
+    "483": {
+        "IdG": "34",
+        "N": "Second Match Goal - In () To () Minute",
+        "T": 5,
+        "A": true
+    },
+    "484": {
+        "IdG": "34",
+        "N": "Second Match Goal - In () To () Minute",
+        "T": 5,
+        "A": true
+    },
+    "485": {
+        "IdG": "34",
+        "N": "No Second Goal",
+        "T": 1,
+        "A": true
+    },
+    "845": {
+        "IdG": "37",
+        "N": "^1^ To Score Its First Goal In Third Period",
+        "T": 1,
+        "A": true
+    },
+    "846": {
+        "IdG": "38",
+        "N": "^2^ To Score Its First Goal In Third Period",
+        "T": 1,
+        "A": true
+    },
+    "504": {
+        "IdG": "43",
+        "N": "^1^ To Win At Least One Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "505": {
+        "IdG": "43",
+        "N": "^1^ To Win At Least One Half - No",
+        "T": 1,
+        "A": true
+    },
+    "506": {
+        "IdG": "44",
+        "N": "^2^ To Win At Least One Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "507": {
+        "IdG": "44",
+        "N": "^2^ To Win At Least One Half - No",
+        "T": 1,
+        "A": true
+    },
+    "516": {
+        "IdG": "49",
+        "N": "Draw In At Least One Half - Yes",
+        "T": 1,
+        "A": true
+    },
+    "517": {
+        "IdG": "49",
+        "N": "Draw In At Least One Half - No",
+        "T": 1,
+        "A": true
+    },
+    "518": {
+        "IdG": "50",
+        "N": "Penalty Awarded - Yes",
+        "T": 1,
+        "A": true
+    },
+    "519": {
+        "IdG": "50",
+        "N": "Penalty Awarded - No",
+        "T": 1,
+        "A": true
+    },
+    "4110": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4111": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4112": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded, 1st Half Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4113": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded, 1st Half Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4114": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded, 2nd Half Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4115": {
+        "IdG": "50",
+        "N": "Total Penalties Awarded, 2nd Half Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4116": {
+        "IdG": "50",
+        "N": "Total Scored Penalties Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4117": {
+        "IdG": "50",
+        "N": "Total Scored Penalties Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4118": {
+        "IdG": "50",
+        "N": "Total Unconverted Penalties Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4119": {
+        "IdG": "50",
+        "N": "Total Unconverted Penalties Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4120": {
+        "IdG": "50",
+        "N": "Highest Number Of Penalties Awarded In A Single Match Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4121": {
+        "IdG": "50",
+        "N": "Highest Number Of Penalties Awarded In A Single Match Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4122": {
+        "IdG": "50",
+        "N": "Fastest Awarded Penalty (mins.) Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4123": {
+        "IdG": "50",
+        "N": "Fastest Awarded Penalty (mins.) Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4683": {
+        "IdG": "50",
+        "N": "Total Goals Scored From Penalties Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4684": {
+        "IdG": "50",
+        "N": "Total Goals Scored From Penalties Under ()",
+        "T": 3,
+        "A": true
+    },
+    "4685": {
+        "IdG": "50",
+        "N": "Most Penalties Scored In A Penalty Shootout In A Match Over ()",
+        "T": 3,
+        "A": true
+    },
+    "4686": {
+        "IdG": "50",
+        "N": "Most Penalties Scored In A Penalty Shootout In A Match Under ()",
+        "T": 3,
+        "A": true
+    },
+    "3407": {
+        "IdG": "51",
+        "N": "5 Minute Penalty - Yes",
+        "T": 1,
+        "A": true
+    },
+    "3408": {
+        "IdG": "51",
+        "N": "5 Minute Penalty - No",
+        "T": 1,
+        "A": true
+    },
+    "3409": {
+        "IdG": "51",
+        "N": "10 Minute Penalty - Yes",
+        "T": 1,
+        "A": true
+    },
+    "3410": {
+        "IdG": "51",
+        "N": "10 Minute Penalty - No",
+        "T": 1,
+        "A": true
+    },
+    "522": {
+        "IdG": "52",
+        "N": "First Substitution In 1st Half",
+        "T": 1,
+        "A": true
+    },
+    "523": {
+        "IdG": "52",
+        "N": "First Substitution In 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "524": {
+        "IdG": "52",
+        "N": "First Substitution During The Break",
+        "T": 1,
+        "A": true
+    },
+    "525": {
+        "IdG": "53",
+        "N": "^1^ 1st Half > 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "526": {
+        "IdG": "53",
+        "N": "^1^ 1st Half = 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "527": {
+        "IdG": "53",
+        "N": "^1^ 1st Half < 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "528": {
+        "IdG": "54",
+        "N": "^2^ 1st Half > 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "529": {
+        "IdG": "54",
+        "N": "^2^ 1st Half = 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "530": {
+        "IdG": "54",
+        "N": "^2^ 1st Half < 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "531": {
+        "IdG": "55",
+        "N": "Run Of Play: Lead - Win",
+        "T": 1,
+        "A": true
+    },
+    "532": {
+        "IdG": "55",
+        "N": "Run Of Play: Lead - Draw",
+        "T": 1,
+        "A": true
+    },
+    "533": {
+        "IdG": "55",
+        "N": "Run Of Play: Lead - Lose",
+        "T": 1,
+        "A": true
+    },
+    "534": {
+        "IdG": "55",
+        "N": "Run Of Play: No Goal",
+        "T": 1,
+        "A": true
+    },
+    "535": {
+        "IdG": "56",
+        "N": "1st Half Or Match: ^1^",
+        "T": 1,
+        "A": true
+    },
+    "536": {
+        "IdG": "56",
+        "N": "1st Half Or Match: X",
+        "T": 1,
+        "A": true
+    },
+    "537": {
+        "IdG": "56",
+        "N": "1st Half Or Match: ^2^",
+        "T": 1,
+        "A": true
+    },
+    "538": {
+        "IdG": "57",
+        "N": "Game (): 40:40 - Yes",
+        "T": 3,
+        "A": true
+    },
+    "539": {
+        "IdG": "57",
+        "N": "Game (): 40:40 - No",
+        "T": 3,
+        "A": true
+    },
+    "1864": {
+        "IdG": "57",
+        "N": "Game () 15:15 - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1865": {
+        "IdG": "57",
+        "N": "Game () 15:15 - No",
+        "T": 3,
+        "A": true
+    },
+    "1866": {
+        "IdG": "57",
+        "N": "Game () 30:30 - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1867": {
+        "IdG": "57",
+        "N": "Game () 30:30 - No",
+        "T": 3,
+        "A": true
+    },
+    "3832": {
+        "IdG": "57",
+        "N": "Game (), Server To Lead 30-0 - Yes",
+        "T": 3,
+        "A": true
+    },
+    "3833": {
+        "IdG": "57",
+        "N": "Game (), Server To Lead 30-0 - No",
+        "T": 3,
+        "A": true
+    },
+    "3834": {
+        "IdG": "57",
+        "N": "Game (), Receiver To Lead 30-0 - Yes",
+        "T": 3,
+        "A": true
+    },
+    "3835": {
+        "IdG": "57",
+        "N": "Game (), Receiver To Lead 30-0 - No",
+        "T": 3,
+        "A": true
+    },
+    "540": {
+        "IdG": "58",
+        "N": "Tie-Break - Yes",
+        "T": 1,
+        "A": true
+    },
+    "541": {
+        "IdG": "58",
+        "N": "Tie-Break - No",
+        "T": 1,
+        "A": true
+    },
+    "712": {
+        "IdG": "59",
+        "N": "In Top Three - Yes",
+        "T": 1,
+        "A": true
+    },
+    "713": {
+        "IdG": "59",
+        "N": "In Top Three - No",
+        "T": 1,
+        "A": true
+    },
+    "578": {
+        "IdG": "60",
+        "N": "Race To () Goals - ^1^",
+        "T": 3,
+        "A": true
+    },
+    "579": {
+        "IdG": "60",
+        "N": "Race To () Goals - ^2^",
+        "T": 3,
+        "A": true
+    },
+    "580": {
+        "IdG": "60",
+        "N": "Race To () Goals - Neither Team",
+        "T": 3,
+        "A": true
+    },
+    "1852": {
+        "IdG": "60",
+        "N": "^1^ To Win Race To () Frames",
+        "T": 3,
+        "A": true
+    },
+    "1853": {
+        "IdG": "60",
+        "N": "^2^ To Win Race To () Frames",
+        "T": 3,
+        "A": true
+    },
+    "1854": {
+        "IdG": "60",
+        "N": "No One To Win Race To () Frames",
+        "T": 3,
+        "A": true
+    },
+    "1868": {
+        "IdG": "60",
+        "N": "^1^ To Win Race To () Points",
+        "T": 3,
+        "A": true
+    },
+    "1869": {
+        "IdG": "60",
+        "N": "^2^ To Win Race To () Points",
+        "T": 3,
+        "A": true
+    },
+    "1870": {
+        "IdG": "60",
+        "N": "Neither Team To Win Race To () Points",
+        "T": 3,
+        "A": true
+    },
+    "1973": {
+        "IdG": "60",
+        "N": "^1^ To Win Race To () Runs",
+        "T": 3,
+        "A": true
+    },
+    "1974": {
+        "IdG": "60",
+        "N": "^2^ To Win Race To () Runs",
+        "T": 3,
+        "A": true
+    },
+    "1975": {
+        "IdG": "60",
+        "N": "Neither To Win Race To () Runs",
+        "T": 3,
+        "A": true
+    },
+    "2172": {
+        "IdG": "60",
+        "N": "Race To () Corners ^1^",
+        "T": 3,
+        "A": true
+    },
+    "2173": {
+        "IdG": "60",
+        "N": "Race To () Corners ^2^",
+        "T": 3,
+        "A": true
+    },
+    "2174": {
+        "IdG": "60",
+        "N": "Race To () Corners Neither Team",
+        "T": 3,
+        "A": true
+    },
+    "2175": {
+        "IdG": "60",
+        "N": "Race To () Yellow Cards ^1^",
+        "T": 3,
+        "A": true
+    },
+    "2176": {
+        "IdG": "60",
+        "N": "Race To () Yellow Cards ^2^",
+        "T": 3,
+        "A": true
+    },
+    "2177": {
+        "IdG": "60",
+        "N": "Race To () Yellow Cards Neither Team",
+        "T": 3,
+        "A": true
+    },
+    "576": {
+        "IdG": "61",
+        "N": "Own Goal - Yes",
+        "T": 1,
+        "A": true
+    },
+    "577": {
+        "IdG": "61",
+        "N": "Own Goal - No",
+        "T": 1,
+        "A": true
+    },
+    "13": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "14": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "65": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "66": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "162": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "163": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "164": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "165": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "166": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "167": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "168": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "169": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "170": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "171": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "172": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "173": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "174": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "175": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "176": {
+        "IdG": "62",
+        "N": "Individual Total 2 Over ()",
+        "T": 3,
+        "A": true
+    },
+    "177": {
+        "IdG": "62",
+        "N": "Individual Total 2 Under ()",
+        "T": 3,
+        "A": true
+    },
+    "584": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal Up To And Including 15th Minute",
+        "T": 1,
+        "A": true
+    },
+    "585": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal In 16th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "586": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal Up To And Including 30th Minute",
+        "T": 1,
+        "A": true
+    },
+    "587": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal In 31st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "588": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal Up To Half Time",
+        "T": 1,
+        "A": true
+    },
+    "589": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal In 46th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "590": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal Up To And Including 60th Minute",
+        "T": 1,
+        "A": true
+    },
+    "591": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal In 61st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "592": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal Up To And Including 75th Minute",
+        "T": 1,
+        "A": true
+    },
+    "593": {
+        "IdG": "65",
+        "N": "^1^ To Score First Goal In 76th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "594": {
+        "IdG": "65",
+        "N": "^1^ Not To Score First Goal",
+        "T": 1,
+        "A": true
+    },
+    "595": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal Up To And Including 15th Minute",
+        "T": 1,
+        "A": true
+    },
+    "596": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal In 16th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "597": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal Up To And Including 30th Minute",
+        "T": 1,
+        "A": true
+    },
+    "598": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal In 31st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "599": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal Up To Half Time",
+        "T": 1,
+        "A": true
+    },
+    "600": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal In 46th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "601": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal Up To And Including 60th Minute",
+        "T": 1,
+        "A": true
+    },
+    "602": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal In 61st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "603": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal Up To And Including 75th Minute",
+        "T": 1,
+        "A": true
+    },
+    "604": {
+        "IdG": "67",
+        "N": "^2^ To Score First Goal In 76th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "605": {
+        "IdG": "67",
+        "N": "^2^ Not To Score First Goal",
+        "T": 1,
+        "A": true
+    },
+    "689": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "690": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "691": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "692": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "693": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "694": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "695": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "696": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "697": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "698": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "699": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "700": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "701": {
+        "IdG": "69",
+        "N": "Draw",
+        "T": 1,
+        "A": true
+    },
+    "715": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "717": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "719": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "721": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "782": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "783": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "784": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "785": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "786": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "787": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "788": {
+        "IdG": "69",
+        "N": "Team 1 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "789": {
+        "IdG": "69",
+        "N": "Team 2 Win By [()|() - ()|() or more] Goals",
+        "T": 5,
+        "A": true
+    },
+    "839": {
+        "IdG": "69",
+        "N": "Team 1 To Win By [()|() - ()|() or more] Points - No",
+        "T": 5,
+        "A": true
+    },
+    "840": {
+        "IdG": "69",
+        "N": "Team 2 To Win By [()|() - ()|() or more] Points - No",
+        "T": 5,
+        "A": true
+    },
+    "1713": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Or More Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1714": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Or More Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1715": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Or More Points - No",
+        "T": 3,
+        "A": true
+    },
+    "1716": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Or More Points - No",
+        "T": 3,
+        "A": true
+    },
+    "1741": {
+        "IdG": "69",
+        "N": "^1^ To Win By () - () Points - Yes",
+        "T": 5,
+        "A": true
+    },
+    "1742": {
+        "IdG": "69",
+        "N": "^2^ To Win By () - () Points - Yes",
+        "T": 5,
+        "A": true
+    },
+    "1743": {
+        "IdG": "69",
+        "N": "^1^ To Win By () - () Points - No",
+        "T": 5,
+        "A": true
+    },
+    "1744": {
+        "IdG": "69",
+        "N": "^2^ To Win By () - () Points - No",
+        "T": 5,
+        "A": true
+    },
+    "1774": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1775": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "1776": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Points - No",
+        "T": 3,
+        "A": true
+    },
+    "1777": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Points - No",
+        "T": 3,
+        "A": true
+    },
+    "2331": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Or Fewer Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "2332": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Or Fewer Points - Yes",
+        "T": 3,
+        "A": true
+    },
+    "2333": {
+        "IdG": "69",
+        "N": "^1^ To Win By () Or Fewer Points - No",
+        "T": 3,
+        "A": true
+    },
+    "2334": {
+        "IdG": "69",
+        "N": "^2^ To Win By () Or Fewer Points - No",
+        "T": 3,
+        "A": true
+    },
+    "665": {
+        "IdG": "71",
+        "N": "Drawn 1st Half/Drawn 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "666": {
+        "IdG": "71",
+        "N": "Drawn 1st Half/^1^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "667": {
+        "IdG": "71",
+        "N": "^1^ Win 1st Half/^2^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "668": {
+        "IdG": "71",
+        "N": "^1^ Win 1st Half/Drawn 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "669": {
+        "IdG": "71",
+        "N": "^1^ Win 1st Half/^1^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "670": {
+        "IdG": "71",
+        "N": "^2^ Win 1st Half/^2^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "671": {
+        "IdG": "71",
+        "N": "^2^ Win 1st Half/^1^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "672": {
+        "IdG": "71",
+        "N": "^2^ Win 1st Half/Drawn 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "673": {
+        "IdG": "71",
+        "N": "Drawn 1st Half/^2^ Win 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "654": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored Up To And Including 15th Minute",
+        "T": 1,
+        "A": true
+    },
+    "655": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored In 16th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "656": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored Up To And Including 30th Minute",
+        "T": 1,
+        "A": true
+    },
+    "657": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored In 31st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "658": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored Up To And Including Half Time",
+        "T": 1,
+        "A": true
+    },
+    "659": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored In 46th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "660": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored Up To And Including 60th Minute",
+        "T": 1,
+        "A": true
+    },
+    "661": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored In 61st Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "662": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored Up To And Including 75th Minute",
+        "T": 1,
+        "A": true
+    },
+    "663": {
+        "IdG": "73",
+        "N": "First Goal To Be Scored In 76th Minute Or After",
+        "T": 1,
+        "A": true
+    },
+    "664": {
+        "IdG": "73",
+        "N": "No First Goal",
+        "T": 1,
+        "A": true
+    },
+    "651": {
+        "IdG": "75",
+        "N": "First Goal in 1st Half",
+        "T": 1,
+        "A": true
+    },
+    "652": {
+        "IdG": "75",
+        "N": "First Goal in 2nd Half",
+        "T": 1,
+        "A": true
+    },
+    "653": {
+        "IdG": "75",
+        "N": "No First Goal",
+        "T": 1,
+        "A": true
+    },
+    "4403": {
+        "IdG": "75",
+        "N": "Goal Number () In 1st Half",
+        "T": 3,
+        "A": true
+    },
+    "4404": {
+        "IdG": "75",
+        "N": "Goal Number () In 2nd Half",
+        "T": 3,
+        "A": true
+    },
+    "4405": {
+        "IdG": "75",
+        "N": "Goal Number () Will Not Be Scored",
+        "T": 3,
+        "A": true
+    },
+    "637": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 0 To 15th Minute",
+        "T": 3,
+        "A": true
+    },
+    "638": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 16th To 30th Minute",
+        "T": 3,
+        "A": true
+    },
+    "639": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 31st Minute To Half Time",
+        "T": 3,
+        "A": true
+    },
+    "640": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 46th To 60th Minute",
+        "T": 3,
+        "A": true
+    },
+    "641": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 61st To 75th Minute",
+        "T": 3,
+        "A": true
+    },
+    "642": {
+        "IdG": "77",
+        "N": "^1^ Goal () From 76th Minute Or Later",
+        "T": 3,
+        "A": true
+    },
+    "643": {
+        "IdG": "77",
+        "N": "^1^ No Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "644": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 0 To 15th Minute",
+        "T": 3,
+        "A": true
+    },
+    "645": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 16th To 30th Minute",
+        "T": 3,
+        "A": true
+    },
+    "646": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 31st Minute To Half Time",
+        "T": 3,
+        "A": true
+    },
+    "647": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 46th To 60th Minute",
+        "T": 3,
+        "A": true
+    },
+    "648": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 61st To 75th Minute",
+        "T": 3,
+        "A": true
+    },
+    "649": {
+        "IdG": "79",
+        "N": "^2^ Goal () From 76th Minute Or Later",
+        "T": 3,
+        "A": true
+    },
+    "650": {
+        "IdG": "79",
+        "N": "^2^ No Goal ()",
+        "T": 3,
+        "A": true
+    },
+    "398": {
+        "IdG": "80",
+        "N": "To Qualify For The Next Round - Yes",
+        "T": 1,
+        "A": true
+    },
+    "399": {
+        "IdG": "80",
+        "N": "To Qualify For The Next Round - No",
+        "T": 1,
+        "A": true
+    },
+    "8276": {
+        "IdG": "80",
+        "N": "[] To Reach Knockout Stage - Yes",
+        "T": 7,
+        "A": true
+    },
+    "8277": {
+        "IdG": "80",
+        "N": "[] To Reach Knockout Stage - No",
+        "T": 7,
+        "A": true
+    },
+    "606": {
+        "IdG": "81",
+        "N": "^1^ Goal In 0 To 15th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "607": {
+        "IdG": "81",
+        "N": "^1^ Goal In 0 To 15th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "608": {
+        "IdG": "81",
+        "N": "^1^ Goal In 16th To 30th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "609": {
+        "IdG": "81",
+        "N": "^1^ Goal In 16th To 30th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "610": {
+        "IdG": "81",
+        "N": "^1^ Goal In 31st Minute To Half Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "611": {
+        "IdG": "81",
+        "N": "^1^ Goal In 31st Minute To Half Time - No",
+        "T": 1,
+        "A": true
+    },
+    "612": {
+        "IdG": "81",
+        "N": "^1^ Goal In 46th To 60th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "613": {
+        "IdG": "81",
+        "N": "^1^ Goal In 46th To 60th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "614": {
+        "IdG": "81",
+        "N": "^1^ Goal In 61st To 75th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "615": {
+        "IdG": "81",
+        "N": "^1^ Goal In 61st To 75th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "616": {
+        "IdG": "81",
+        "N": "^1^ Goal In 76th Minute Or Later - Yes",
+        "T": 1,
+        "A": true
+    },
+    "617": {
+        "IdG": "81",
+        "N": "^1^ Goal In 76th Minute Or Later - No",
+        "T": 1,
+        "A": true
+    },
+    "618": {
+        "IdG": "83",
+        "N": "^2^ Goal In 0 To 15th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "619": {
+        "IdG": "83",
+        "N": "^2^ Goal In 0 To 15th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "620": {
+        "IdG": "83",
+        "N": "^2^ Goal In 16th To 30th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "621": {
+        "IdG": "83",
+        "N": "^2^ Goal In 16th To 30th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "622": {
+        "IdG": "83",
+        "N": "^2^ Goal In 31st Minute To Half Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "623": {
+        "IdG": "83",
+        "N": "^2^ Goal In 31st Minute To Half Time - No",
+        "T": 1,
+        "A": true
+    },
+    "624": {
+        "IdG": "83",
+        "N": "^2^ Goal In 46th To 60th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "625": {
+        "IdG": "83",
+        "N": "^2^ Goal In 46th To 60th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "626": {
+        "IdG": "83",
+        "N": "^2^ Goal In 61st To 75th Minute - Yes",
+        "T": 1,
+        "A": true
+    },
+    "627": {
+        "IdG": "83",
+        "N": "^2^ Goal In 61st To 75th Minute - No",
+        "T": 1,
+        "A": true
+    },
+    "628": {
+        "IdG": "83",
+        "N": "^2^ Goal In 76th Minute Or Later - Yes",
+        "T": 1,
+        "A": true
+    },
+    "629": {
+        "IdG": "83",
+        "N": "^2^ Goal In 76th Minute Or Later - No",
+        "T": 1,
+        "A": true
+    },
+    "745": {
+        "IdG": "85",
+        "N": "Shootouts - Yes",
+        "T": 1,
+        "A": true
+    },
+    "746": {
+        "IdG": "85",
+        "N": "Shootouts - No",
+        "T": 1,
+        "A": true
+    },
+    "581": {
+        "IdG": "86",
+        "N": "First () Mins Result - ^1^",
+        "T": 3,
+        "A": true
+    },
+    "582": {
+        "IdG": "86",
+        "N": "First () Mins Result - Draw",
+        "T": 3,
+        "A": true
+    },
+    "583": {
+        "IdG": "86",
+        "N": "First () Mins Result - ^2^",
+        "T": 3,
+        "A": true
+    },
+    "739": {
+        "IdG": "87",
+        "N": "Total Over () (3Way)",
+        "T": 37,
+        "A": true
+    },
+    "741": {
+        "IdG": "87",
+        "N": "Total Exactly () (3Way)",
+        "T": 37,
+        "A": true
+    },
+    "743": {
+        "IdG": "87",
+        "N": "Total Under () (3Way)",
+        "T": 37,
+        "A": true
+    },
+    "749": {
+        "IdG": "88",
+        "N": "^1^ Total (3Way) Over ()",
+        "T": 37,
+        "A": true
+    },
+    "751": {
+        "IdG": "88",
+        "N": "^1^ Total (3Way) Exact ()",
+        "T": 37,
+        "A": true
+    },
+    "753": {
+        "IdG": "88",
+        "N": "^1^ Total (3Way) Under ()",
+        "T": 37,
+        "A": true
+    },
+    "763": {
+        "IdG": "89",
+        "N": "^2^ Total (3Way) Over ()",
+        "T": 37,
+        "A": true
+    },
+    "764": {
+        "IdG": "89",
+        "N": "^2^ Total (3Way) Exact ()",
+        "T": 3,
+        "A": true
+    },
+    "765": {
+        "IdG": "89",
+        "N": "^2^ Total (3Way) Under ()",
+        "T": 37,
+        "A": true
+    },
+    "759": {
+        "IdG": "90",
+        "N": "Will There Be Overtime? - Yes",
+        "T": 1,
+        "A": true
+    },
+    "761": {
+        "IdG": "90",
+        "N": "Will There Be Overtime? - No",
+        "T": 1,
+        "A": true
+    },
+    "755": {
+        "IdG": "91",
+        "N": "^1^ Total Even",
+        "T": 1,
+        "A": true
+    },
+    "757": {
+        "IdG": "91",
+        "N": "^1^ Total Odd",
+        "T": 1,
+        "A": true
+    },
+    "766": {
+        "IdG": "92",
+        "N": "^2^ Total Even",
+        "T": 1,
+        "A": true
+    },
+    "767": {
+        "IdG": "92",
+        "N": "^2^ Total Odd",
+        "T": 1,
+        "A": true
+    },
+    "769": {
+        "IdG": "93",
+        "N": "^1^ To Keep Clean Sheet",
+        "T": 1,
+        "A": true
+    },
+    "770": {
+        "IdG": "93",
+        "N": "^1^ To Concede At Least One Goal",
+        "T": 1,
+        "A": true
+    },
+    "771": {
+        "IdG": "93",
+        "N": "^2^ To Keep Clean Sheet",
+        "T": 1,
+        "A": true
+    },
+    "772": {
+        "IdG": "93",
+        "N": "^2^ To Concede At Least One Goal",
+        "T": 1,
+        "A": true
+    },
+    "773": {
+        "IdG": "95",
+        "N": "Will There Be () Period? - Yes",
+        "T": 3,
+        "A": true
+    },
+    "774": {
+        "IdG": "95",
+        "N": "Will There Be () Period? - No",
+        "T": 3,
+        "A": true
+    },
+    "775": {
+        "IdG": "95",
+        "N": "Exact Period Count: ()",
+        "T": 3,
+        "A": true
+    },
+    "780": {
+        "IdG": "95",
+        "N": "Period () > Period () - Yes",
+        "T": 5,
+        "A": true
+    },
+    "781": {
+        "IdG": "95",
+        "N": "Period () > Period () - No",
+        "T": 5,
+        "A": true
+    },
+    "9229": {
+        "IdG": "95",
+        "N": "() < ()",
+        "T": 5,
+        "A": true
+    },
+    "9230": {
+        "IdG": "95",
+        "N": "() = ()",
+        "T": 5,
+        "A": true
+    },
+    "9231": {
+        "IdG": "95",
+        "N": "() > ()",
+        "T": 5,
+        "A": true
+    },
+    "6357": {
+        "IdG": "96",
+        "N": "No Goal Number ()",
+        "T": 3,
+        "A": true
+    },
+    "812": {
+        "IdG": "96",
+        "N": "Goal () Will Be Scored Up To () Minute - Yes",
+        "T": 39,
+        "A": true
+    },
+    "813": {
+        "IdG": "96",
+        "N": "Goal () Will Be Scored Up To () Minute - No",
+        "T": 39,
+        "A": true
+    },
+    "776": {
+        "IdG": "97",
+        "N": "^1^ To Win In Shootouts - Yes",
+        "T": 1,
+        "A": true
+    },
+    "777": {
+        "IdG": "97",
+        "N": "^1^ To Win In Shootouts - No",
+        "T": 1,
+        "A": true
+    },
+    "778": {
+        "IdG": "97",
+        "N": "^2^ To Win In Shootouts - Yes",
+        "T": 1,
+        "A": true
+    },
+    "779": {
+        "IdG": "97",
+        "N": "^2^ To Win In Shootouts - No",
+        "T": 1,
+        "A": true
+    },
+    "3827": {
+        "IdG": "99",
+        "N": "Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "3828": {
+        "IdG": "99",
+        "N": "Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "794": {
+        "IdG": "100",
+        "N": "To Qualify - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "795": {
+        "IdG": "100",
+        "N": "To Qualify - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "2259": {
+        "IdG": "100",
+        "N": "To Qualify For The Next Stage [] - Yes",
+        "T": 7,
+        "A": true
+    },
+    "2260": {
+        "IdG": "100",
+        "N": "To Qualify For The Next Stage [] - No",
+        "T": 7,
+        "A": true
+    },
+    "401": {
+        "IdG": "101",
+        "N": "^1^  Wins",
+        "T": 1,
+        "A": true
+    },
+    "402": {
+        "IdG": "101",
+        "N": "^2^  Wins",
+        "T": 1,
+        "A": true
+    },
+    "796": {
+        "IdG": "102",
+        "N": "^1^ To Win End ()",
+        "T": 3,
+        "A": true
+    },
+    "797": {
+        "IdG": "102",
+        "N": "^2^ To Win End ()",
+        "T": 3,
+        "A": true
+    },
+    "798": {
+        "IdG": "102",
+        "N": "Draw In End ()",
+        "T": 3,
+        "A": true
+    },
+    "800": {
+        "IdG": "103",
+        "N": "Time Interval Results [In ():00 To ():59|In ():00 and later] W1",
+        "T": 5,
+        "A": true
+    },
+    "801": {
+        "IdG": "103",
+        "N": "Time Interval Results [In ():00 To ():59|In ():00 and later] X",
+        "T": 5,
+        "A": true
+    },
+    "802": {
+        "IdG": "103",
+        "N": "Time Interval Results [In ():00 To ():59|In ():00 and later] W2",
+        "T": 5,
+        "A": true
+    },
+    "1717": {
+        "IdG": "103",
+        "N": "Time Interval Result From ():00 And Later Mins W ^1^",
+        "T": 3,
+        "A": true
+    },
+    "1718": {
+        "IdG": "103",
+        "N": "Time Interval Result From ():00 And Later Mins X",
+        "T": 3,
+        "A": true
+    },
+    "1719": {
+        "IdG": "103",
+        "N": "Time Interval Result From ():00 And Later Mins W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "1778": {
+        "IdG": "103",
+        "N": "Time Interval Result In ():00 To ():59 W ^1^",
+        "T": 5,
+        "A": true
+    },
+    "1779": {
+        "IdG": "103",
+        "N": "Time Interval Result In ():00 To ():59 X",
+        "T": 5,
+        "A": true
+    },
+    "1780": {
+        "IdG": "103",
+        "N": "Time Interval Result In ():00 To ():59 W ^2^",
+        "T": 5,
+        "A": true
+    },
+    "818": {
+        "IdG": "104",
+        "N": "Goal Number () - Scored From Open Play By Kicking",
+        "T": 3,
+        "A": true
+    },
+    "819": {
+        "IdG": "104",
+        "N": "Goal Number () - Header",
+        "T": 3,
+        "A": true
+    },
+    "820": {
+        "IdG": "104",
+        "N": "Goal Number () - To Be Scored From A Direct Free Kick",
+        "T": 3,
+        "A": true
+    },
+    "821": {
+        "IdG": "104",
+        "N": "Goal Number () - Penalty",
+        "T": 3,
+        "A": true
+    },
+    "822": {
+        "IdG": "104",
+        "N": "Goal Number () - Own Goal",
+        "T": 3,
+        "A": true
+    },
+    "2488": {
+        "IdG": "104",
+        "N": "No Goal Number ()",
+        "T": 3,
+        "A": true
+    },
+    "5909": {
+        "IdG": "104",
+        "N": "Header And A Free Kick To Be Scored",
+        "T": 1,
+        "A": true
+    },
+    "6142": {
+        "IdG": "104",
+        "N": "A Header And A Free Kick From Outside The Box To Be Scored",
+        "T": 1,
+        "A": true
+    },
+    "10422": {
+        "IdG": "104",
+        "N": "Goal Number () To Be Scored From Open Play From Inside The Penalty Area",
+        "T": 3,
+        "A": true
+    },
+    "10423": {
+        "IdG": "104",
+        "N": "Goal Number () To Be Scored From Open Play From Outside The Penalty Area",
+        "T": 3,
+        "A": true
+    },
+    "803": {
+        "IdG": "105",
+        "N": "First () Minutes W ^1^",
+        "T": 3,
+        "A": true
+    },
+    "804": {
+        "IdG": "105",
+        "N": "First () Minutes X",
+        "T": 3,
+        "A": true
+    },
+    "805": {
+        "IdG": "105",
+        "N": "First () Minutes W ^2^",
+        "T": 3,
+        "A": true
+    },
+    "823": {
+        "IdG": "106",
+        "N": "Regular Time Win ()",
+        "T": 3,
+        "A": true
+    },
+    "824": {
+        "IdG": "106",
+        "N": "Extra Time Win ()",
+        "T": 3,
+        "A": true
+    },
+    "825": {
+        "IdG": "106",
+        "N": "Penalty Shoot-Out Win ()",
+        "T": 3,
+        "A": true
+    },
+    "1700": {
+        "IdG": "106",
+        "N": "Overtime Win ()",
+        "T": 3,
+        "A": true
+    },
+    "1701": {
+        "IdG": "106",
+        "N": "To Win In Shootouts ()",
+        "T": 3,
+        "A": true
+    },
+    "2196": {
+        "IdG": "106",
+        "N": "Winner In Extra Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2197": {
+        "IdG": "106",
+        "N": "Winner In Extra Time - No",
+        "T": 1,
+        "A": true
+    },
+    "2198": {
+        "IdG": "106",
+        "N": "Winner On Penalties - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2199": {
+        "IdG": "106",
+        "N": "Winner On Penalties - No",
+        "T": 1,
+        "A": true
+    },
+    "2506": {
+        "IdG": "106",
+        "N": "Regular Time",
+        "T": 1,
+        "A": true
+    },
+    "2507": {
+        "IdG": "106",
+        "N": "Overtime",
+        "T": 1,
+        "A": true
+    },
+    "2508": {
+        "IdG": "106",
+        "N": "Shootouts",
+        "T": 1,
+        "A": true
+    },
+    "2509": {
+        "IdG": "106",
+        "N": "Extra Time",
+        "T": 1,
+        "A": true
+    },
+    "2510": {
+        "IdG": "106",
+        "N": "Penalty Shootout",
+        "T": 1,
+        "A": true
+    },
+    "2519": {
+        "IdG": "106",
+        "N": "In Overtime - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2520": {
+        "IdG": "106",
+        "N": "In Overtime - No",
+        "T": 1,
+        "A": true
+    },
+    "2521": {
+        "IdG": "106",
+        "N": "In Shootouts - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2522": {
+        "IdG": "106",
+        "N": "In Shootouts - No",
+        "T": 1,
+        "A": true
+    },
+    "2543": {
+        "IdG": "106",
+        "N": "In Regular Time - Yes",
+        "T": 1,
+        "A": true
+    },
+    "2544": {
+        "IdG": "106",
+        "N": "In Regular Time - No",
+        "T": 1,
+        "A": true
+    },
+    "827": {
+        "IdG": "108",
+        "N": "Total Goal Minutes ()-()",
+        "T": 5,
+        "A": true
+    },
+    "1802": {
+        "IdG": "108",
+        "N": "Total Goal Minutes () Or Fewer",
+        "T": 3,
+        "A": true
+    },
+    "1803": {
+        "IdG": "108",
+        "N": "Total Goal Minutes () Or More",
+        "T": 3,
+        "A": true
+    },
+    "732": {
+        "IdG": "109",
+        "N": "Handiсap ^1^ () Sets",
+        "T": 3,
+        "A": true
+    },
+    "733": {
+        "IdG": "109",
+        "N": "Handiсap ^2^ () Sets",
+        "T": 3,
+        "A": true
+    },
+    "768": {
+        "IdG": "110",
+        "N": "Total Sets ()",
+        "T": 37,
+        "A": true
+    },
+    "806": {
+        "IdG": "111",
+        "N": "Reach The Final - Yes",
+        "T": 1,
+        "A": true
+    },
+    "807": {
+        "IdG": "111",
+        "N": "Reach The Final - No",
+        "T": 1,
+        "A": true
+    },
+    "811": {
+        "IdG": "112",
+        "N": "Тысячные результата",
+        "T": 1,
+        "A": true
+    },
+    "790": {
+        "IdG": "116",
+        "N": "Only ^1^ To Score",
+        "T": 1,
+        "A": true
+    },
+    "791": {
+        "IdG": "116",
+        "N": "Only ^2^ To Score",
+        "T": 1,
+        "A": true
+    },
+    "792": {
+        "IdG": "116",
+        "N": "Both Teams To Score",
+        "T": 1,
+        "A": true
+    },
+    "793": {
+        "IdG": "116",
+        "N": "Neither Team To Score",
+        "T": 1,
+        "A": true
+    },
+    "833": {
+        "IdG": "117",
+        "N": "To Score First Goal []",
+        "T": 7,
+        "A": true
+    },
+    "2960": {
+        "IdG": "117",
+        "N": "No Goals",
+        "T": 1,
+        "A": true
+    },
+    "4874": {
+        "IdG": "117",
+        "N": "[] To Score First Goal - Yes",
+        "T": 7,
+        "A": true
+    },
+    "4875": {
+        "IdG": "117",
+        "N": "[] To Score First Goal - No",
+        "T": 7,
+        "A": true
+    },
+    "5447": {
+        "IdG": "117",
+        "N": "Russian Player To Score []'s First Goal In Champions League - Yes",
+        "T": 7,
+        "A": true
+    },
+    "5448": {
+        "IdG": "117",
+        "N": "Russian Player To Score []'s First Goal In Champions League - No",
+        "T": 7,
+        "A": true
+    },
+    "834": {
+        "IdG": "118",
+        "N": "To Score Last Goal []",
+        "T": 7,
+        "A": true
+    },
+    "2961": {
+        "IdG": "118",
+        "N": "No Goals",
+        "T": 1,
+        "A": true
+    },
+    "832": {
+        "IdG": "119",
+        "N": "To Score A Goal []",
+        "T": 7,
+        "A": true
+    },
+    "5869": {
+        "IdG": "119",
+        "N": "[] To Score A Goal At Any Time - Yes",
+        "T": 7,
+        "A": true
+    },
+    "5870": {
+        "IdG": "119",
+        "N": "[] To Score A Goal At Any Time - No",
+        "T": 7,
+        "A": true
+    },
+    "835": {
+        "IdG": "123",
+        "N": "[] Wins - Yes",
+        "T": 7,
+        "A": true
+    },
+    "836": {
+        "IdG": "123",
+        "N": "[] Wins - No",
+        "T": 7,
+        "A": true
+    },
+    "7672": {
+        "IdG": "123",
+        "N": "Draw",
+        "T": 1,
+        "A": true
+    },
+    "735": {
+        "IdG": "124",
+        "N": "[1|2] Will Score () Or Less",
+        "T": 5,
+        "A": true
+    },
+    "737": {
+        "IdG": "124",
+        "N": "[1|2] Will Win After ()",
+        "T": 5,
+        "A": true
+    },
+    "841": {
+        "IdG": "127",
+        "N": "^1^ To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "842": {
+        "IdG": "127",
+        "N": "^1^ To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "843": {
+        "IdG": "127",
+        "N": "^2^ To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "844": {
+        "IdG": "127",
+        "N": "^2^ To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "12115": {
+        "IdG": "127",
+        "N": "Only ^1^ To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "12116": {
+        "IdG": "127",
+        "N": "Only ^1^ To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "12117": {
+        "IdG": "127",
+        "N": "Only ^2^ To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "12118": {
+        "IdG": "127",
+        "N": "Only ^2^ To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "12119": {
+        "IdG": "127",
+        "N": "Only One Team To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "12120": {
+        "IdG": "127",
+        "N": "Only One Team To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "12121": {
+        "IdG": "127",
+        "N": "Neither To Score In Each Period - Yes",
+        "T": 1,
+        "A": true
+    },
+    "12122": {
+        "IdG": "127",
+        "N": "Neither To Score In Each Period - No",
+        "T": 1,
+        "A": true
+    },
+    "847": {
+        "IdG": "130",
+        "N": "First Goal In Interval [from () to ()|from () and later] min",
+        "T": 5,
+        "A": true
+    },
+    "1720": {
+        "IdG": "130",
+        "N": "First Goal In Time Interval From Minute () Or Later",
+        "T": 3,
+        "A": true
+    },
+    "1781": {
+        "IdG": "130",
+        "N": "First Goal In The Interval From () To () Minutes",
+        "T": 5,
+        "A": true
+    },
+    "2289": {
+        "IdG": "130",
+        "N": "First Goal In Time Interval Up To () Min",
+        "T": 3,
+        "A": true
+    },
+    "2948": {
+        "IdG": "130",
+        "N": "No First Goal",
+        "T": 1,
+        "A": true
+    },
+    "848": {
+        "IdG": "131",
+        "N": "^1^ To Win () Point",
+        "T": 3,
+        "A": true
+    },
+    "849": {
+        "IdG": "131",
+        "N": "^2^ To Win () Point",
+        "T": 3,
+        "A": true
+    },
+    "2034": {
+        "IdG": "131",
+        "N": "Point () - X",
+        "T": 3,
+        "A": true
+    },
+    "850": {
+        "IdG": "132",
+        "N": "Multi Corner Over ()",
+        "T": 3,
+        "A": true
+    },
+    "851": {
+        "IdG": "132",
+        "N": "Multi Corner Under ()",
+        "T": 3,
+        "A": true
+    },
+    "852": {
+        "IdG": "133",
+        "N": "First 10 Minutes Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "853": {
+        "IdG": "133",
+        "N": "First 10 Minutes Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "862": {
+        "IdG": "134",
+        "N": "Goal After Minute () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "863": {
+        "IdG": "134",
+        "N": "Goal After Minute () - No",
+        "T": 3,
+        "A": true
+    },
+    "864": {
+        "IdG": "135",
+        "N": "Player 1 To Win Point () in [game ()|set ()|set ()]",
+        "T": 5,
+        "A": true
+    },
+    "865": {
+        "IdG": "135",
+        "N": "Player 2 To Win Point () in [game ()|set ()|set ()]",
+        "T": 5,
+        "A": true
+    },
+    "1761": {
+        "IdG": "135",
+        "N": "^1^ To Win () Point In () Set",
+        "T": 5,
+        "A": true
+    },
+    "1762": {
+        "IdG": "135",
+        "N": "^2^ To Win () Point In () Set",
+        "T": 5,
+        "A": true
+    },
+    "1763": {
+        "IdG": "135",
+        "N": "^1^ To Win () Point In () Set",
+        "T": 5,
+        "A": true
+    },
+    "1764": {
+        "IdG": "135",
+        "N": "^2^ To Win () Point In () Set",
+        "T": 5,
+        "A": true
+    },
+    "1794": {
+        "IdG": "135",
+        "N": "^1^ To Win () Point In () Game",
+        "T": 5,
+        "A": true
+    },
+    "1795": {
+        "IdG": "135",
+        "N": "^2^ To Win () Point In () Game",
+        "T": 5,
+        "A": true
+    },
+    "8755": {
+        "IdG": "135",
+        "N": "Point Number () In Set () - No",
+        "T": 5,
+        "A": true
+    },
+    "8135": {
+        "IdG": "136",
+        "N": "Correct Score ()-() Or Less",
+        "T": 5,
+        "A": true
+    },
+    "8136": {
+        "IdG": "136",
+        "N": "Correct Score () Or Less - ()",
+        "T": 5,
+        "A": true
+    },
+    "8137": {
+        "IdG": "136",
+        "N": "W ^1^ After Score 10-10",
+        "T": 1,
+        "A": true
+    },
+    "8138": {
+        "IdG": "136",
+        "N": "W ^2^ After Score 10-10",
+        "T": 1,
+        "A": true
+    },
+    "3506": {
+        "IdG": "136",
+        "N": "Any Other Score - W ^1^",
+        "T": 1,
+        "A": true
+    },
+    "3507": {
+        "IdG": "136",
+        "N": "Any Other Score - W ^2^",
+        "T": 1,
+        "A": true
+    },
+    "3786": {
+        "IdG": "136",
+        "N": "Correct Score - Any Other Score",
+        "T": 1,
+        "A": true
+    },
+    "4310": {
+        "IdG": "136",
+        "N": "Any Other Score - W ^1^",
+        "T": 1,
+        "A": true
+    },
+    "4311": {
+        "IdG": "136",
+        "N": "Any Other Score - W ^2^",
+        "T": 1,
+        "A": true
+    },
+    "4312": {
+        "IdG": "136",
+        "N": "Any Other Score - Neither",
+        "T": 1,
+        "A": true
+    },
+    "4784": {
+        "IdG": "136",
+        "N": "Any Team To Score () Or More Runs",
+        "T": 3,
+        "A": true
+    },
+    "5563": {
+        "IdG": "136",
+        "N": "Correct Score - Any Other Score - {OPP1}",
+        "T": 3,
+        "A": true
+    },
+    "5564": {
+        "IdG": "136",
+        "N": "Correct Score - Any Other Score - Draw",
+        "T": 3,
+        "A": true
+    },
+    "5565": {
+        "IdG": "136",
+        "N": "Correct Score - Any Other Score - {OPP2}",
+        "T": 3,
+        "A": true
+    },
+    "731": {
+        "IdG": "136",
+        "N": "Correct Score ()-()",
+        "T": 5,
+        "A": true
+    },
+    "1757": {
+        "IdG": "136",
+        "N": "^1^ Will Score () Or Fewer",
+        "T": 3,
+        "A": true
+    },
+    "1758": {
+        "IdG": "136",
+        "N": "^2^ Will Score () Or Fewer",
+        "T": 3,
+        "A": true
+    },
+    "1759": {
+        "IdG": "136",
+        "N": "^1^ Wins After ()",
+        "T": 3,
+        "A": true
+    },
+    "1760": {
+        "IdG": "136",
+        "N": "^2^ Wins After ()",
+        "T": 3,
+        "A": true
+    },
+    "2060": {
+        "IdG": "136",
+        "N": "Correct Score ()-() Or Better ^1^",
+        "T": 5,
+        "A": true
+    },
+    "2063": {
+        "IdG": "136",
+        "N": "Correct Score ()-() Or Better ^2^",
+        "T": 5,
+        "A": true
+    },
+    "3044": {
+        "IdG": "136",
+        "N": "Correct Score ()-() - Yes",
+        "T": 5,
+        "A": true
+    },
+    "3045": {
+        "IdG": "136",
+        "N": "Correct Score ()-() - No",
+        "T": 5,
+        "A": true
+    },
+    "876": {
+        "IdG": "137",
+        "N": "^1^ To Win On A Tie-Break",
+        "T": 1,
+        "A": true
+    },
+    "877": {
+        "IdG": "137",
+        "N": "^2^ To Win On A Tie-Break",
+        "T": 1,
+        "A": true
+    },
+    "878": {
+        "IdG": "138",
+        "N": "Tie-Break Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "879": {
+        "IdG": "138",
+        "N": "Tie-Break Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "880": {
+        "IdG": "139",
+        "N": "Tie-Break Score ()-()",
+        "T": 5,
+        "A": true
+    },
+    "1768": {
+        "IdG": "139",
+        "N": "Tie-Break Score. Any Other W ^1^",
+        "T": 1,
+        "A": true
+    },
+    "1769": {
+        "IdG": "139",
+        "N": "Tie-Break Score. Any Other W ^2^",
+        "T": 1,
+        "A": true
+    },
+    "1801": {
+        "IdG": "139",
+        "N": "Tie-Break Score ()-()",
+        "T": 5,
+        "A": true
+    },
+    "881": {
+        "IdG": "141",
+        "N": "() st/nd/rd End/Set () - ^1^ Win",
+        "T": 5,
+        "A": true
+    },
+    "882": {
+        "IdG": "141",
+        "N": "() st/nd/rd End/Set () - ^2^ Win",
+        "T": 5,
+        "A": true
+    },
+    "883": {
+        "IdG": "143",
+        "N": "^1^ To Win After () Points",
+        "T": 3,
+        "A": true
+    },
+    "884": {
+        "IdG": "143",
+        "N": "^2^ To Win After () Points",
+        "T": 3,
+        "A": true
+    },
+    "885": {
+        "IdG": "143",
+        "N": "Draw After () Points",
+        "T": 3,
+        "A": true
+    },
+    "886": {
+        "IdG": "145",
+        "N": "Extra Points - YES",
+        "T": 1,
+        "A": true
+    },
+    "887": {
+        "IdG": "145",
+        "N": "Extra Points - NO",
+        "T": 1,
+        "A": true
+    },
+    "888": {
+        "IdG": "147",
+        "N": "Score ()-() After () Sets",
+        "T": 35,
+        "A": true
+    },
+    "890": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (5) Minute",
+        "T": 23,
+        "A": true
+    },
+    "891": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (5) Minute",
+        "T": 23,
+        "A": true
+    },
+    "892": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "893": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "894": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (15) Minute",
+        "T": 27,
+        "A": true
+    },
+    "895": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (15) Minute",
+        "T": 27,
+        "A": true
+    },
+    "896": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (2) Minute",
+        "T": 21,
+        "A": true
+    },
+    "897": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (2) Minute",
+        "T": 21,
+        "A": true
+    },
+    "898": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (15) Minute",
+        "T": 27,
+        "A": true
+    },
+    "899": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (15) Minute",
+        "T": 27,
+        "A": true
+    },
+    "1256": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (30) Minute",
+        "T": 29,
+        "A": true
+    },
+    "1257": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (30) Minute",
+        "T": 29,
+        "A": true
+    },
+    "1258": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (30) Minute",
+        "T": 29,
+        "A": true
+    },
+    "1259": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (30) Minute",
+        "T": 29,
+        "A": true
+    },
+    "1298": {
+        "IdG": "148",
+        "N": "Total Over () In The Interval From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "1299": {
+        "IdG": "148",
+        "N": "Total Under () In The Interval From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "3866": {
+        "IdG": "148",
+        "N": "Total Match Goals Over () From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "3867": {
+        "IdG": "148",
+        "N": "Total Match Goals Under () From (1) To (10) Minute",
+        "T": 25,
+        "A": true
+    },
+    "958": {
+        "IdG": "150",
+        "N": "Guessed Correctly () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "959": {
+        "IdG": "150",
+        "N": "Guessed Correctly () - No",
+        "T": 3,
+        "A": true
+    },
+    "475": {
+        "IdG": "154",
+        "N": "^1^ To Score Last Goal",
+        "T": 1,
+        "A": true
+    },
+    "476": {
+        "IdG": "154",
+        "N": "No One Will Score Last Goal",
+        "T": 1,
+        "A": true
+    },
+    "477": {
+        "IdG": "154",
+        "N": "^2^ To Score Last Goal",
+        "T": 1,
+        "A": true
+    },
+    "963": {
+        "IdG": "156",
+        "N": "Penalty Awarded And Sending Off - Yes",
+        "T": 1,
+        "A": true
+    },
+    "964": {
+        "IdG": "156",
+        "N": "Penalty Awarded And Sending Off - No",
+        "T": 1,
+        "A": true
+    },
+    "965": {
+        "IdG": "158",
+        "N": "Substitute Player To Score - Yes",
+        "T": 1,
+        "A": true
+    },
+    "966": {
+        "IdG": "158",
+        "N": "Substitute Player To Score - No",
+        "T": 1,
+        "A": true
+    },
+    "967": {
+        "IdG": "160",
+        "N": "A Player To Score Two Goals - Yes",
+        "T": 1,
+        "A": true
+    },
+    "968": {
+        "IdG": "160",
+        "N": "A Player To Score Two Goals - No",
+        "T": 1,
+        "A": true
+    },
+    "969": {
+        "IdG": "162",
+        "N": "Hat-trick - Yes",
+        "T": 1,
+        "A": true
+    },
+    "970": {
+        "IdG": "162",
+        "N": "Hat-trick - No",
+        "T": 1,
+        "A": true
+    },
+    "973": {
+        "IdG": "164",
+        "N": "Set To Finish 6:0 (0:6) In The Match - Yes",
+        "T": 1,
+        "A": true
+    },
+    "974": {
+        "IdG": "164",
+        "N": "Set To Finish 6:0 (0:6) In The Match - No",
+        "T": 1,
+        "A": true
+    },
+    "975": {
+        "IdG": "166",
+        "N": "Player To Lose 1st Set But Come Back To Win - Yes",
+        "T": 1,
+        "A": true
+    },
+    "976": {
+        "IdG": "166",
+        "N": "Player To Lose 1st Set But Come Back To Win - No",
+        "T": 1,
+        "A": true
+    },
+    "977": {
+        "IdG": "168",
+        "N": "Total Breaks Under ()",
+        "T": 3,
+        "A": true
+    },
+    "978": {
+        "IdG": "168",
+        "N": "Total Breaks Over ()",
+        "T": 3,
+        "A": true
+    },
+    "981": {
+        "IdG": "170",
+        "N": "^1^ To Win In Overtime - Yes",
+        "T": 1,
+        "A": true
+    },
+    "982": {
+        "IdG": "170",
+        "N": "^1^ To Win In Overtime - No",
+        "T": 1,
+        "A": true
+    },
+    "983": {
+        "IdG": "170",
+        "N": "^2^ To Win In Overtime - Yes",
+        "T": 1,
+        "A": true
+    },
+    "984": {
+        "IdG": "170",
+        "N": "^2^ To Win In Overtime - No",
+        "T": 1,
+        "A": true
+    },
+    "985": {
+        "IdG": "172",
+        "N": "Highest Scoring Quarter - Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "986": {
+        "IdG": "172",
+        "N": "Highest Scoring Quarter - Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "987": {
+        "IdG": "174",
+        "N": "Lowest Scoring Quarter - Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "988": {
+        "IdG": "174",
+        "N": "Lowest Scoring Quarter - Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "826": {
+        "IdG": "176",
+        "N": "Highest Scoring () Period",
+        "T": 3,
+        "A": true
+    },
+    "989": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - ()",
+        "T": 3,
+        "A": true
+    },
+    "990": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - Draw",
+        "T": 1,
+        "A": true
+    },
+    "12131": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - () - Yes",
+        "T": 3,
+        "A": true
+    },
+    "12132": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - () - No",
+        "T": 3,
+        "A": true
+    },
+    "12133": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - Draw - Yes",
+        "T": 1,
+        "A": true
+    },
+    "12134": {
+        "IdG": "176",
+        "N": "Highest Scoring Period - Draw - No",
+        "T": 1,
+        "A": true
+    },
+    "2472": {
+        "IdG": "178",
+        "N": "First Foul - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "2473": {
+        "IdG": "178",
+        "N": "First Foul - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "993": {
+        "IdG": "180",
+        "N": "First Rebound - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "994": {
+        "IdG": "180",
+        "N": "First Rebound - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "971": {
+        "IdG": "182",
+        "N": "Total Sets Over ()",
+        "T": 3,
+        "A": true
+    },
+    "972": {
+        "IdG": "182",
+        "N": "Total Sets Under ()",
+        "T": 3,
+        "A": true
+    },
+    "1001": {
+        "IdG": "184",
+        "N": "First Substitution - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "1002": {
+        "IdG": "184",
+        "N": "First Substitution - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "1003": {
+        "IdG": "184",
+        "N": "No Substitution",
+        "T": 1,
+        "A": true
+    },
+    "1004": {
+        "IdG": "186",
+        "N": "First Throw-in - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "1005": {
+        "IdG": "186",
+        "N": "First Throw-in - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "1006": {
+        "IdG": "186",
+        "N": "No Throw-in",
+        "T": 1,
+        "A": true
+    },
+    "1007": {
+        "IdG": "188",
+        "N": "First Goal Kick - ^1^",
+        "T": 1,
+        "A": true
+    },
+    "1008": {
+        "IdG": "188",
+        "N": "First Goal Kick - ^2^",
+        "T": 1,
+        "A": true
+    },
+    "1009": {
+        "IdG": "188",
+        "N": "No Goal Kick",
+        "T": 1,
+        "A": true
+    },
+    "1010": {
+        "IdG": "190",
+        "N": "Added Time - Total Minutes Over ()",
+        "T": 3,
+        "A": true
+    },
+    "1011": {
+        "IdG": "190",
+        "N": "Added Time - Total Minutes Under ()",
+        "T": 3,
+        "A": true
+    },
+    "1025": {
+        "IdG": "204",
+        "N": "Offsides - Match Total Over ()",
+        "T": 3,
+        "A": true
+    },
+    "1026": {
+        "IdG": "204",
+        "N": "Offsides - Match Total Under ()",
+        "T": 3,
+        "A": true
+    },
+    "9787": {
+        "IdG": "204",
+        "N": "Total Offsides Over ()",
+        "T": 3,
+        "A": true
+    },
+    "9788": {
+        "IdG": "204",
+        "N": "Total Offsides Under ()",
+        "T": 3,
+        "A": true
+    }
+}

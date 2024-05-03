@@ -1,0 +1,3598 @@
+{
+    "1": {
+        "N": "1x2",
+        "C": 3
+    },
+    "2": {
+        "N": "Handicap",
+        "C": 2
+    },
+    "4": {
+        "N": "Half : 1x2",
+        "C": 3
+    },
+    "5": {
+        "N": "Scored Goal",
+        "C": 2
+    },
+    "6": {
+        "N": "Half : Over/Under",
+        "C": 2
+    },
+    "7": {
+        "N": "Correct Score",
+        "C": 3
+    },
+    "8": {
+        "N": "Double Chance",
+        "C": 3
+    },
+    "9": {
+        "N": "Draw",
+        "C": 2
+    },
+    "10": {
+        "N": "Result + Total",
+        "C": 3
+    },
+    "11": {
+        "N": "HT-FT",
+        "C": 3
+    },
+    "12": {
+        "N": "Goal Interval - Yes",
+        "C": 1
+    },
+    "13": {
+        "N": "Goal Interval - No",
+        "C": 1
+    },
+    "14": {
+        "N": "Even/Odd",
+        "C": 2
+    },
+    "15": {
+        "N": "Total 1",
+        "C": 2
+    },
+    "16": {
+        "N": "Try Scored",
+        "C": 3
+    },
+    "17": {
+        "N": "Total",
+        "C": 2
+    },
+    "18": {
+        "N": "Scores In Each Half",
+        "C": 3
+    },
+    "19": {
+        "N": "Both Teams To Score",
+        "C": 2
+    },
+    "20": {
+        "N": "Next Goal",
+        "C": 3
+    },
+    "21": {
+        "N": "Game Scoreline",
+        "C": 2
+    },
+    "22": {
+        "N": "Win In The Game",
+        "C": 2
+    },
+    "23": {
+        "N": "Win In The Set",
+        "C": 2
+    },
+    "24": {
+        "N": "Win In The Inning",
+        "C": 3
+    },
+    "25": {
+        "N": "Penalty Shots",
+        "C": 2
+    },
+    "26": {
+        "N": "Winner",
+        "C": 2
+    },
+    "27": {
+        "N": "European Handicap",
+        "C": 3
+    },
+    "28": {
+        "N": "Total Interval",
+        "C": 1
+    },
+    "29": {
+        "N": "Individual Total Interval - 1",
+        "C": 2
+    },
+    "30": {
+        "N": "Individual Total Interval - 2",
+        "C": 2
+    },
+    "32": {
+        "N": "Goal In Both Halves",
+        "C": 2
+    },
+    "33": {
+        "N": "First Goal",
+        "C": 3
+    },
+    "34": {
+        "N": "Second Goal Time",
+        "C": 3
+    },
+    "37": {
+        "N": "Team 1 To Score Their 1st Goal",
+        "C": 3
+    },
+    "38": {
+        "N": "Team 2 To Score Their 1st Goal",
+        "C": 3
+    },
+    "43": {
+        "N": "Team 1 To Win Either Half",
+        "C": 2
+    },
+    "44": {
+        "N": "Team 2 To Win Either Half",
+        "C": 2
+    },
+    "49": {
+        "N": "Draw In At Least One Half",
+        "C": 2
+    },
+    "50": {
+        "N": "Penalty Awarded",
+        "C": 2
+    },
+    "51": {
+        "N": "Penalties",
+        "C": 2
+    },
+    "52": {
+        "N": "First Substitution",
+        "C": 1
+    },
+    "53": {
+        "N": "Team 1 Total HT-FT",
+        "C": 1
+    },
+    "54": {
+        "N": "Team 2 Total HT-FT",
+        "C": 1
+    },
+    "55": {
+        "N": "Run Of Play",
+        "C": 1
+    },
+    "56": {
+        "N": "1st Half Or Match: 1х2",
+        "C": 3
+    },
+    "57": {
+        "N": "Bets On The Game",
+        "C": 2
+    },
+    "58": {
+        "N": "Tie-Break",
+        "C": 2
+    },
+    "59": {
+        "N": "Finish In Top 3",
+        "C": 2
+    },
+    "60": {
+        "N": "Race To",
+        "C": 3
+    },
+    "61": {
+        "N": "Own Goal",
+        "C": 2
+    },
+    "62": {
+        "N": "Total 2",
+        "C": 2
+    },
+    "65": {
+        "N": "Team 1 To Score Their 1st Goal",
+        "C": 1
+    },
+    "67": {
+        "N": "Team 2 To Score Their 1st Goal",
+        "C": 1
+    },
+    "69": {
+        "N": "Exact Points Difference",
+        "C": 2
+    },
+    "71": {
+        "N": "Half/Half",
+        "C": 1
+    },
+    "73": {
+        "N": "Period Of First Goal",
+        "C": 1
+    },
+    "75": {
+        "N": "Goal In Half",
+        "C": 3
+    },
+    "77": {
+        "N": "Goal In Time Interval - Team 1",
+        "C": 1
+    },
+    "79": {
+        "N": "Goal In Time Interval - Team 2",
+        "C": 1
+    },
+    "80": {
+        "N": "Group Qualification",
+        "C": 2
+    },
+    "81": {
+        "N": "Goal In Time Interval - Team 1 - Yes/No",
+        "C": 1
+    },
+    "83": {
+        "N": "Goal In Time Interval - Team 2 - Yes/No",
+        "C": 1
+    },
+    "85": {
+        "N": "Will There Be Shootouts? - Yes/No",
+        "C": 2
+    },
+    "86": {
+        "N": "First X Minutes Result",
+        "C": 3
+    },
+    "87": {
+        "N": "3Way Total",
+        "C": 3
+    },
+    "88": {
+        "N": "Individual 3Way Total 1",
+        "C": 3
+    },
+    "89": {
+        "N": "Individual 3Way Total 2",
+        "C": 3
+    },
+    "90": {
+        "N": "Will There Be Overtime? - Yes/No",
+        "C": 2
+    },
+    "91": {
+        "N": "Individual Total 1 Even/Odd",
+        "C": 2
+    },
+    "92": {
+        "N": "Individual Total 2 Even/Odd",
+        "C": 2
+    },
+    "93": {
+        "N": "Clean Sheet - Yes/No",
+        "C": 2
+    },
+    "95": {
+        "N": "Scoring Periods",
+        "C": 2
+    },
+    "96": {
+        "N": "Goal Up To Minute",
+        "C": 2
+    },
+    "97": {
+        "N": "Shootout Win",
+        "C": 2
+    },
+    "99": {
+        "N": "Asian Total",
+        "C": 2
+    },
+    "100": {
+        "N": "To Qualify",
+        "C": 1
+    },
+    "101": {
+        "N": "Team Wins",
+        "C": 2
+    },
+    "102": {
+        "N": "End Result",
+        "C": 3
+    },
+    "103": {
+        "N": "Time Interval Result",
+        "C": 1
+    },
+    "104": {
+        "N": "How Goal Will Be Scored",
+        "C": 1
+    },
+    "105": {
+        "N": "Result For The Current Minute",
+        "C": 3
+    },
+    "106": {
+        "N": "When The Winner Will Be Determined",
+        "C": 1
+    },
+    "108": {
+        "N": "Total Goal Minutes",
+        "C": 1
+    },
+    "109": {
+        "N": "Sets Handicap",
+        "C": 2
+    },
+    "110": {
+        "N": "Exact Total Sets",
+        "C": 2
+    },
+    "111": {
+        "N": "To Reach The Final - Yes/No",
+        "C": 2
+    },
+    "112": {
+        "N": "Thousandths Of A Second",
+        "C": 1
+    },
+    "116": {
+        "N": "Which Team Will Score Goals?",
+        "C": 3
+    },
+    "117": {
+        "N": "Who Will Score The First Goal In The Match?",
+        "C": 1
+    },
+    "118": {
+        "N": "Player To Score Last Goal",
+        "C": 1
+    },
+    "119": {
+        "N": "Who Will Score Goal",
+        "C": 1
+    },
+    "123": {
+        "N": "Who Will Win? - Yes/No",
+        "C": 2
+    },
+    "124": {
+        "N": "Set Score",
+        "C": 2
+    },
+    "127": {
+        "N": "Team To Score In Each Period - Yes/No",
+        "C": 2
+    },
+    "130": {
+        "N": "Goal In Time Interval",
+        "C": 1
+    },
+    "131": {
+        "N": "Will Win Point In Order",
+        "C": 3
+    },
+    "132": {
+        "N": "Multi Corner",
+        "C": 2
+    },
+    "133": {
+        "N": "10 Minute Total",
+        "C": 2
+    },
+    "134": {
+        "N": "Goal After Minute - Yes/No",
+        "C": 2
+    },
+    "135": {
+        "N": "Points",
+        "C": 2
+    },
+    "136": {
+        "N": "Correct Score",
+        "C": 3
+    },
+    "137": {
+        "N": "Tie-Break Winner",
+        "C": 2
+    },
+    "138": {
+        "N": "Tie-Break Total",
+        "C": 2
+    },
+    "139": {
+        "N": "Tie-Break Score",
+        "C": 1
+    },
+    "141": {
+        "N": "End Winner",
+        "C": 3
+    },
+    "143": {
+        "N": "Leader After Total Points Scored",
+        "C": 3
+    },
+    "145": {
+        "N": "Extra Points",
+        "C": 2
+    },
+    "147": {
+        "N": "Score After Sets",
+        "C": 2
+    },
+    "148": {
+        "N": "Time Interval Total",
+        "C": 2
+    },
+    "150": {
+        "N": "Number Of Correct Outcomes TOTO",
+        "C": 2
+    },
+    "154": {
+        "N": "Last Goal",
+        "C": 2
+    },
+    "156": {
+        "N": "Penalty Awarded And Sending Off",
+        "C": 2
+    },
+    "158": {
+        "N": "Substitute Player To Score",
+        "C": 2
+    },
+    "160": {
+        "N": "A Player Scores Two Goals (Brace)",
+        "C": 2
+    },
+    "162": {
+        "N": "A Player Scores A Hat-Trick",
+        "C": 2
+    },
+    "164": {
+        "N": "Loss Without Scoring",
+        "C": 2
+    },
+    "166": {
+        "N": "Come From Behind And Win",
+        "C": 2
+    },
+    "168": {
+        "N": "Total Breaks",
+        "C": 2
+    },
+    "170": {
+        "N": "Overtime Win",
+        "C": 2
+    },
+    "172": {
+        "N": "Highest Scoring Quarter Total",
+        "C": 2
+    },
+    "174": {
+        "N": "Lowest Scoring Quarter Total",
+        "C": 2
+    },
+    "176": {
+        "N": "Highest Scoring Period",
+        "C": 2
+    },
+    "178": {
+        "N": "First Foul",
+        "C": 2
+    },
+    "180": {
+        "N": "First Rebound",
+        "C": 2
+    },
+    "182": {
+        "N": "Total Sets",
+        "C": 2
+    },
+    "184": {
+        "N": "First Substitution - Team",
+        "C": 2
+    },
+    "186": {
+        "N": "First Throw-in - Team",
+        "C": 2
+    },
+    "188": {
+        "N": "First Goal Kick - Team",
+        "C": 2
+    },
+    "190": {
+        "N": "Added Time Total",
+        "C": 2
+    },
+    "204": {
+        "N": "Offsides - Match Total",
+        "C": 2
+    },
+    "206": {
+        "N": "Substitutions - Match Total",
+        "C": 2
+    },
+    "214": {
+        "N": "First Foul From Minute To Minute",
+        "C": 2
+    },
+    "220": {
+        "N": "To Score A Short-Handed Goal",
+        "C": 2
+    },
+    "222": {
+        "N": "To Score An Empty Net Goal",
+        "C": 2
+    },
+    "224": {
+        "N": "Total Goals Scored During Powerplay",
+        "C": 2
+    },
+    "226": {
+        "N": "First Penalty",
+        "C": 3
+    },
+    "228": {
+        "N": "Highest Scoring Half",
+        "C": 2
+    },
+    "230": {
+        "N": "Which Team Will Be The First To Score Points?",
+        "C": 2
+    },
+    "232": {
+        "N": "Team To Win All Quarters",
+        "C": 2
+    },
+    "234": {
+        "N": "Team To Win Both Halves",
+        "C": 2
+    },
+    "236": {
+        "N": "Team To Win 1st Half And The Match",
+        "C": 2
+    },
+    "238": {
+        "N": "Team To Win 1st Quarter And The Match",
+        "C": 2
+    },
+    "240": {
+        "N": "2-Point Field Goal Percentage - Team",
+        "C": 2
+    },
+    "242": {
+        "N": "3-Point Field Goal Percentage",
+        "C": 2
+    },
+    "244": {
+        "N": "Free Throws Percentage",
+        "C": 2
+    },
+    "248": {
+        "N": "Goal To Be Scored With A Header",
+        "C": 2
+    },
+    "250": {
+        "N": "Total Goal Minutes",
+        "C": 2
+    },
+    "256": {
+        "N": "Post-Match Penalty Shootout",
+        "C": 2
+    },
+    "258": {
+        "N": "Who Will Kick Off The Match?",
+        "C": 2
+    },
+    "260": {
+        "N": "Break",
+        "C": 2
+    },
+    "262": {
+        "N": "Match Point Total",
+        "C": 2
+    },
+    "264": {
+        "N": "Match Will Be Won By An Ace",
+        "C": 2
+    },
+    "266": {
+        "N": "Player To Save Match Point And Win The Match",
+        "C": 2
+    },
+    "268": {
+        "N": "Break in 1st or 2nd Game",
+        "C": 2
+    },
+    "270": {
+        "N": "Number Of Set Points",
+        "C": 2
+    },
+    "272": {
+        "N": "Number Of Points In First Game",
+        "C": 2
+    },
+    "274": {
+        "N": "First Serve Percentage",
+        "C": 2
+    },
+    "275": {
+        "N": "Any Team To Win By",
+        "C": 2
+    },
+    "279": {
+        "N": "First Corner In X To Y Minute",
+        "C": 2
+    },
+    "281": {
+        "N": "Draw And Total Corners Under/Over",
+        "C": 2
+    },
+    "283": {
+        "N": "Team To Win And Total Corners Under/Over",
+        "C": 2
+    },
+    "285": {
+        "N": "Total Each Team Will Score Under/Over",
+        "C": 2
+    },
+    "291": {
+        "N": "Team To Score N Goals",
+        "C": 2
+    },
+    "295": {
+        "N": "First Substitution In Half",
+        "C": 3
+    },
+    "297": {
+        "N": "Total Goals",
+        "C": 2
+    },
+    "299": {
+        "N": "Win And Total",
+        "C": 3
+    },
+    "301": {
+        "N": "First To Happen",
+        "C": 1
+    },
+    "303": {
+        "N": "Result In Minute",
+        "C": 3
+    },
+    "305": {
+        "N": "Win Or Draw In Minute",
+        "C": 3
+    },
+    "307": {
+        "N": "Handicap In Minute",
+        "C": 2
+    },
+    "309": {
+        "N": "Total In Minute",
+        "C": 2
+    },
+    "311": {
+        "N": "Official Added Time Total",
+        "C": 2
+    },
+    "317": {
+        "N": "Corners To Be Taken From All Four Corners Of The Field",
+        "C": 2
+    },
+    "319": {
+        "N": "Goal In Each Period",
+        "C": 2
+    },
+    "323": {
+        "N": "Team Not To Lose Any Periods",
+        "C": 2
+    },
+    "325": {
+        "N": "Team Will Score A Goal In Each Period",
+        "C": 2
+    },
+    "327": {
+        "N": "Penalty Shootout Win",
+        "C": 2
+    },
+    "329": {
+        "N": "All Periods - Total Under",
+        "C": 2
+    },
+    "331": {
+        "N": "All Periods - Total Over",
+        "C": 2
+    },
+    "333": {
+        "N": "Total Periods",
+        "C": 2
+    },
+    "335": {
+        "N": "Team Offside",
+        "C": 2
+    },
+    "337": {
+        "N": "First Offside From X to Y Minute",
+        "C": 2
+    },
+    "339": {
+        "N": "TOTO Total",
+        "C": 1
+    },
+    "341": {
+        "N": "Lowest Scoring Period Total",
+        "C": 2
+    },
+    "343": {
+        "N": "Score After X Sets",
+        "C": 3
+    },
+    "345": {
+        "N": "Individual Total In Time Interval",
+        "C": 2
+    },
+    "347": {
+        "N": "Win In Interval",
+        "C": 3
+    },
+    "349": {
+        "N": "No Away Wins",
+        "C": 2
+    },
+    "351": {
+        "N": "No Draws",
+        "C": 2
+    },
+    "353": {
+        "N": "All Teams To Score",
+        "C": 2
+    },
+    "355": {
+        "N": "All Home Teams To Score",
+        "C": 2
+    },
+    "357": {
+        "N": "Each Match Total",
+        "C": 2
+    },
+    "359": {
+        "N": "At Least One Team Will Not Score In Each Match",
+        "C": 2
+    },
+    "361": {
+        "N": "Total Wins",
+        "C": 2
+    },
+    "367": {
+        "N": "Highest Scoring Match Total",
+        "C": 2
+    },
+    "369": {
+        "N": "Highest Scoring Team Total",
+        "C": 2
+    },
+    "371": {
+        "N": "Highest Scoring Half Total",
+        "C": 2
+    },
+    "373": {
+        "N": "Total Number Of Penalties",
+        "C": 2
+    },
+    "375": {
+        "N": "Total Number Of Sendings Off",
+        "C": 2
+    },
+    "377": {
+        "N": "Both To Score",
+        "C": 2
+    },
+    "379": {
+        "N": "Will Result Be W1W2 Or W2W1?",
+        "C": 2
+    },
+    "381": {
+        "N": "To Score In Time Interval",
+        "C": 2
+    },
+    "385": {
+        "N": "Finishing Position (Group)",
+        "C": 2
+    },
+    "387": {
+        "N": "Individual Total Breaks",
+        "C": 2
+    },
+    "389": {
+        "N": "Total Centuries",
+        "C": 2
+    },
+    "391": {
+        "N": "Individual Total Centuries",
+        "C": 2
+    },
+    "393": {
+        "N": "Maximum Break (147 Points)",
+        "C": 2
+    },
+    "395": {
+        "N": "First Colored Ball Potted",
+        "C": 2
+    },
+    "397": {
+        "N": "Break Of 100 Or More Points",
+        "C": 2
+    },
+    "399": {
+        "N": "Highest Scoring Break",
+        "C": 2
+    },
+    "401": {
+        "N": "Break Of 50 Or More Points",
+        "C": 2
+    },
+    "403": {
+        "N": "Win In Round",
+        "C": 2
+    },
+    "405": {
+        "N": "Leader After Frames",
+        "C": 2
+    },
+    "410": {
+        "N": "Team To Possess Ball At Final Whistle",
+        "C": 2
+    },
+    "413": {
+        "N": "Total Centuries Interval",
+        "C": 2
+    },
+    "415": {
+        "N": "Who Will Pot First Ball?",
+        "C": 2
+    },
+    "417": {
+        "N": "Winning Margin",
+        "C": 2
+    },
+    "681": {
+        "N": "Change Of Leadership",
+        "C": 2
+    },
+    "683": {
+        "N": "Draw 2-2 - Yes/No",
+        "C": 2
+    },
+    "685": {
+        "N": "Total Matches With Overtime",
+        "C": 2
+    },
+    "687": {
+        "N": "Total Shutouts",
+        "C": 2
+    },
+    "689": {
+        "N": "Total Goals Scored From 1st To 3rd Minute",
+        "C": 2
+    },
+    "691": {
+        "N": "Total Empty Net Goals",
+        "C": 2
+    },
+    "693": {
+        "N": "Total Goals In The Highest Scoring Match",
+        "C": 2
+    },
+    "695": {
+        "N": "Total Goals In The Lowest Scoring Match",
+        "C": 2
+    },
+    "697": {
+        "N": "Total Short-Handed Goals Scored",
+        "C": 2
+    },
+    "699": {
+        "N": "Total Goals Scored During Powerplay",
+        "C": 2
+    },
+    "701": {
+        "N": "Total Shots",
+        "C": 2
+    },
+    "703": {
+        "N": "Total Penalty Time (Only 2 Minutes)",
+        "C": 2
+    },
+    "705": {
+        "N": "Minimum Total Penalty Time In The Match (Only 2 Minutes)",
+        "C": 2
+    },
+    "707": {
+        "N": "Maximum Total Penalty Time In The Match (Only 2 Minutes)",
+        "C": 2
+    },
+    "709": {
+        "N": "Total Wins With Difference Of 3 Or More Goals",
+        "C": 2
+    },
+    "711": {
+        "N": "Team 1's Total Wins",
+        "C": 2
+    },
+    "713": {
+        "N": "Team 2's Total Wins",
+        "C": 2
+    },
+    "715": {
+        "N": "Total Draws",
+        "C": 2
+    },
+    "717": {
+        "N": "Total Legs",
+        "C": 2
+    },
+    "719": {
+        "N": "Total 180s",
+        "C": 2
+    },
+    "721": {
+        "N": "Highest Checkout Total",
+        "C": 2
+    },
+    "725": {
+        "N": "Yes/No",
+        "C": 2
+    },
+    "731": {
+        "N": "Scorecast",
+        "C": 2
+    },
+    "733": {
+        "N": "Percentage Of Ball Possession",
+        "C": 2
+    },
+    "735": {
+        "N": "Total Substitutions By Team",
+        "C": 2
+    },
+    "737": {
+        "N": "Total Goals Scored By A Player",
+        "C": 2
+    },
+    "739": {
+        "N": "Next Event",
+        "C": 1
+    },
+    "741": {
+        "N": "When Will They Qualify?",
+        "C": 1
+    },
+    "742": {
+        "N": "To Reach 1/8 Finals",
+        "C": 1
+    },
+    "745": {
+        "N": "Place In The Group",
+        "C": 1
+    },
+    "747": {
+        "N": "Total By Groups",
+        "C": 1
+    },
+    "749": {
+        "N": "Total Rebounds",
+        "C": 2
+    },
+    "751": {
+        "N": "Total Assists",
+        "C": 2
+    },
+    "753": {
+        "N": "Total Two-Point Field Goals",
+        "C": 2
+    },
+    "755": {
+        "N": "Total Three-Point Field Goals",
+        "C": 2
+    },
+    "757": {
+        "N": "Total Fouls (Free Throws)",
+        "C": 2
+    },
+    "759": {
+        "N": "Penalty Kick In Minute",
+        "C": 2
+    },
+    "761": {
+        "N": "Sending Off In Minute",
+        "C": 2
+    },
+    "763": {
+        "N": "Both Teams To Score In Minute",
+        "C": 1
+    },
+    "765": {
+        "N": "Scorecast",
+        "C": 1
+    },
+    "767": {
+        "N": "First Corner - Team",
+        "C": 2
+    },
+    "769": {
+        "N": "First Shot On Target",
+        "C": 2
+    },
+    "771": {
+        "N": "Goals By Player",
+        "C": 1
+    },
+    "773": {
+        "N": "First To Happen",
+        "C": 2
+    },
+    "775": {
+        "N": "Will Get Yellow Card",
+        "C": 2
+    },
+    "776": {
+        "N": "Penalty Shootout",
+        "C": 2
+    },
+    "777": {
+        "N": "Run in Inning",
+        "C": 2
+    },
+    "779": {
+        "N": "First Run",
+        "C": 2
+    },
+    "781": {
+        "N": "Extra Inning",
+        "C": 2
+    },
+    "783": {
+        "N": "First To Score 3 Runs",
+        "C": 2
+    },
+    "785": {
+        "N": "Last Run",
+        "C": 2
+    },
+    "787": {
+        "N": "First To Happen",
+        "C": 2
+    },
+    "789": {
+        "N": "First Run And Win",
+        "C": 2
+    },
+    "791": {
+        "N": "First Home Run",
+        "C": 2
+    },
+    "793": {
+        "N": "Individual Total Hits",
+        "C": 2
+    },
+    "795": {
+        "N": "Total Hits",
+        "C": 2
+    },
+    "797": {
+        "N": "Financial Bets",
+        "C": 1
+    },
+    "798": {
+        "N": "(Lowest) Highest Scoring Quarter Total",
+        "C": 2
+    },
+    "800": {
+        "N": "Injury Time Goal",
+        "C": 2
+    },
+    "806": {
+        "N": "First ACE",
+        "C": 2
+    },
+    "808": {
+        "N": "First Double Fault",
+        "C": 2
+    },
+    "809": {
+        "N": "Sets Scoring",
+        "C": 2
+    },
+    "810": {
+        "N": "Sets Lowest Scoring",
+        "C": 2
+    },
+    "811": {
+        "N": "Medical Timeout",
+        "C": 2
+    },
+    "812": {
+        "N": "To Win/Lose 1st Serve",
+        "C": 2
+    },
+    "813": {
+        "N": "DQ or Refusal",
+        "C": 2
+    },
+    "814": {
+        "N": "Race To Games",
+        "C": 2
+    },
+    "815": {
+        "N": "Line-Call Challenges",
+        "C": 2
+    },
+    "816": {
+        "N": "To Win Own Serve First",
+        "C": 1
+    },
+    "817": {
+        "N": "Ace In First Or Second Game",
+        "C": 2
+    },
+    "818": {
+        "N": "Total Match Time",
+        "C": 2
+    },
+    "819": {
+        "N": "Total Time Of First Set",
+        "C": 2
+    },
+    "820": {
+        "N": "Double Fault",
+        "C": 2
+    },
+    "821": {
+        "N": "First Serve Winning %",
+        "C": 2
+    },
+    "822": {
+        "N": "First Serve",
+        "C": 2
+    },
+    "823": {
+        "N": "First Point Won",
+        "C": 2
+    },
+    "824": {
+        "N": "Total Points In First Game By Players",
+        "C": 2
+    },
+    "825": {
+        "N": "Who Will Make More Service Breaks",
+        "C": 2
+    },
+    "826": {
+        "N": "Will Score And Not Lose",
+        "C": 2
+    },
+    "828": {
+        "N": "HT-FT",
+        "C": 3
+    },
+    "829": {
+        "N": "HT-FT + Total",
+        "C": 2
+    },
+    "830": {
+        "N": "Next Corner",
+        "C": 3
+    },
+    "832": {
+        "N": "Next Yellow Card",
+        "C": 3
+    },
+    "837": {
+        "N": "Match-Ups",
+        "C": 2
+    },
+    "839": {
+        "N": "Individual stats",
+        "C": 1
+    },
+    "842": {
+        "N": "Winning Margin",
+        "C": 1
+    },
+    "844": {
+        "N": "Number Of Targets Hit",
+        "C": 1
+    },
+    "848": {
+        "N": "Total Hat-tricks",
+        "C": 1
+    },
+    "850": {
+        "N": "Player's Total",
+        "C": 1
+    },
+    "852": {
+        "N": "Win To Nil",
+        "C": 1
+    },
+    "854": {
+        "N": "Both Teams To Score + Total",
+        "C": 2
+    },
+    "856": {
+        "N": "Win To Nil + Total",
+        "C": 1
+    },
+    "858": {
+        "N": "At Least One Team Will Not Score + Total",
+        "C": 1
+    },
+    "860": {
+        "N": "Both Teams To Score In Both Halves",
+        "C": 1
+    },
+    "862": {
+        "N": "Both Teams To Score In All Periods",
+        "C": 1
+    },
+    "864": {
+        "N": "Win By",
+        "C": 1
+    },
+    "866": {
+        "N": "Player Total Minutes",
+        "C": 1
+    },
+    "868": {
+        "N": "Winner",
+        "C": 1
+    },
+    "870": {
+        "N": "Will Win Pole, Race And Fastest Lap",
+        "C": 1
+    },
+    "872": {
+        "N": "All Cars Will Finish First Lap",
+        "C": 1
+    },
+    "874": {
+        "N": "Both Drivers' Placings",
+        "C": 1
+    },
+    "876": {
+        "N": "Total Frames",
+        "C": 1
+    },
+    "878": {
+        "N": "Player To Win Set",
+        "C": 2
+    },
+    "880": {
+        "N": "Result And Both Teams To Score",
+        "C": 2
+    },
+    "881": {
+        "N": "First To Happen",
+        "C": 2
+    },
+    "883": {
+        "N": "Fouls",
+        "C": 2
+    },
+    "887": {
+        "N": "Goal In Time Interval - Yes/No",
+        "C": 2
+    },
+    "897": {
+        "N": "To Score Their First Goal",
+        "C": 2
+    },
+    "901": {
+        "N": "Total Goals By Halves",
+        "C": 2
+    },
+    "903": {
+        "N": "To Score First Goal And Not Win",
+        "C": 2
+    },
+    "906": {
+        "N": "Event",
+        "C": 2
+    },
+    "908": {
+        "N": "Indirect Free Kick",
+        "C": 1
+    },
+    "910": {
+        "N": "Who Will Win Sets",
+        "C": 1
+    },
+    "912": {
+        "N": "Additional Totals",
+        "C": 1
+    },
+    "914": {
+        "N": "Last Corner In X To Y Minute",
+        "C": 1
+    },
+    "916": {
+        "N": "Total Errors",
+        "C": 2
+    },
+    "918": {
+        "N": "Yellow Card In Time Interval",
+        "C": 2
+    },
+    "920": {
+        "N": "First Points To Be Scored By",
+        "C": 1
+    },
+    "922": {
+        "N": "Last Points To Be Scored By",
+        "C": 1
+    },
+    "924": {
+        "N": "2 PTS Field Goal",
+        "C": 1
+    },
+    "926": {
+        "N": "3 PTS Field Goal",
+        "C": 1
+    },
+    "928": {
+        "N": "Free Throw",
+        "C": 1
+    },
+    "930": {
+        "N": "Timeout",
+        "C": 1
+    },
+    "932": {
+        "N": "Stats",
+        "C": 1
+    },
+    "934": {
+        "N": "Team's Score in Quarter",
+        "C": 1
+    },
+    "936": {
+        "N": "Which Team Will Score Points Last?",
+        "C": 1
+    },
+    "938": {
+        "N": "How First Point Will Be Scored",
+        "C": 1
+    },
+    "940": {
+        "N": "Time Of First Try",
+        "C": 1
+    },
+    "942": {
+        "N": "Total Tries",
+        "C": 1
+    },
+    "944": {
+        "N": "Team 1 Total Tries",
+        "C": 1
+    },
+    "946": {
+        "N": "Team 2 Total Tries",
+        "C": 1
+    },
+    "948": {
+        "N": "Total Points In End",
+        "C": 1
+    },
+    "950": {
+        "N": "Correct Score In End",
+        "C": 1
+    },
+    "952": {
+        "N": "Sets Correct Score",
+        "C": 1
+    },
+    "954": {
+        "N": "Handicap After N Innings",
+        "C": 1
+    },
+    "956": {
+        "N": "Total After N Innings",
+        "C": 1
+    },
+    "958": {
+        "N": "Individual Total 1 After N Innings",
+        "C": 1
+    },
+    "960": {
+        "N": "Individual Total 2 After N Innings",
+        "C": 1
+    },
+    "962": {
+        "N": "Lead After N Innings",
+        "C": 3
+    },
+    "964": {
+        "N": "Will There Be A Run?",
+        "C": 1
+    },
+    "966": {
+        "N": "Will There Be A Hit?",
+        "C": 1
+    },
+    "968": {
+        "N": "Scoring Hits",
+        "C": 1
+    },
+    "969": {
+        "N": "Method Of Victory",
+        "C": 2
+    },
+    "970": {
+        "N": "Next Point",
+        "C": 1
+    },
+    "972": {
+        "N": "Scored Points",
+        "C": 1
+    },
+    "974": {
+        "N": "Number Of Goals",
+        "C": 1
+    },
+    "976": {
+        "N": "Number Of Shots",
+        "C": 1
+    },
+    "978": {
+        "N": "Total Matches With Penalty Shootouts",
+        "C": 1
+    },
+    "980": {
+        "N": "Total Goals Scored By Defensemen",
+        "C": 1
+    },
+    "982": {
+        "N": "Total Times A Player Scores Two Goals",
+        "C": 1
+    },
+    "984": {
+        "N": "Total Defeats",
+        "C": 1
+    },
+    "986": {
+        "N": "Total Goals Conceded",
+        "C": 1
+    },
+    "988": {
+        "N": "Total Empty Net Goals Conceded",
+        "C": 1
+    },
+    "990": {
+        "N": "Total Goals In Match",
+        "C": 1
+    },
+    "992": {
+        "N": "Total Defeats With Difference Of 3 Or More Goals",
+        "C": 1
+    },
+    "994": {
+        "N": "Number Of Matches In Which The Team Will Secure A Shutout",
+        "C": 1
+    },
+    "996": {
+        "N": "Total Runs",
+        "C": 1
+    },
+    "998": {
+        "N": "Individual Total Runs",
+        "C": 1
+    },
+    "1000": {
+        "N": "Individual Total Runs Even/Odd",
+        "C": 1
+    },
+    "1002": {
+        "N": "Next Man Out",
+        "C": 1
+    },
+    "1004": {
+        "N": "Method Of Next Batsman Dismissal (6Way)",
+        "C": 1
+    },
+    "1006": {
+        "N": "Top Batsman Team 1",
+        "C": 1
+    },
+    "1007": {
+        "N": "Top Batsman Team 2",
+        "C": 1
+    },
+    "1008": {
+        "N": "Winner",
+        "C": 1
+    },
+    "1010": {
+        "N": "Knockdown",
+        "C": 1
+    },
+    "1012": {
+        "N": "Total Runs Per Delivery",
+        "C": 1
+    },
+    "1014": {
+        "N": "Individual Total Runs (Overs)",
+        "C": 1
+    },
+    "1016": {
+        "N": "Individual Total Runs Even/Odd (Overs)",
+        "C": 1
+    },
+    "1018": {
+        "N": "Player's Total Runs",
+        "C": 1
+    },
+    "1020": {
+        "N": "Who Will Score More Runs",
+        "C": 1
+    },
+    "1022": {
+        "N": "Type Of Points Score",
+        "C": 1
+    },
+    "1024": {
+        "N": "Total Behinds",
+        "C": 1
+    },
+    "1026": {
+        "N": "Individual Total Behinds",
+        "C": 1
+    },
+    "1028": {
+        "N": "Extra Time",
+        "C": 1
+    },
+    "1032": {
+        "N": "Method Of Qualifying",
+        "C": 2
+    },
+    "1036": {
+        "N": "Finish Position",
+        "C": 1
+    },
+    "1038": {
+        "N": "Individual Total Goals",
+        "C": 1
+    },
+    "1040": {
+        "N": "First Goal + Result",
+        "C": 1
+    },
+    "1042": {
+        "N": "Method Of Next Batsman Dismissal (2Way)",
+        "C": 1
+    },
+    "1044": {
+        "N": "Will A Wicket Fall In Over",
+        "C": 1
+    },
+    "1046": {
+        "N": "Total Fallen Wickets",
+        "C": 1
+    },
+    "1048": {
+        "N": "Last Checkout (Colour)",
+        "C": 1
+    },
+    "1050": {
+        "N": "Round Win",
+        "C": 1
+    },
+    "1052": {
+        "N": "Round Total",
+        "C": 1
+    },
+    "1054": {
+        "N": "Round Handicap",
+        "C": 1
+    },
+    "1056": {
+        "N": "First Frag In Round - Team",
+        "C": 1
+    },
+    "1058": {
+        "N": "Suicide In Round",
+        "C": 1
+    },
+    "1060": {
+        "N": "Total Headshots In Round",
+        "C": 1
+    },
+    "1062": {
+        "N": "Individual Total Frags In Round",
+        "C": 1
+    },
+    "1064": {
+        "N": "Total Frags in Round Even/Odd",
+        "C": 1
+    },
+    "1066": {
+        "N": "Method Of Win In Round",
+        "C": 1
+    },
+    "1068": {
+        "N": "Bomb Planted",
+        "C": 1
+    },
+    "1070": {
+        "N": "Bomb Defused",
+        "C": 1
+    },
+    "1072": {
+        "N": "Win To Nil In Round",
+        "C": 1
+    },
+    "1074": {
+        "N": "Round Duration",
+        "C": 1
+    },
+    "1075": {
+        "N": "Leader After Ends",
+        "C": 3
+    },
+    "1076": {
+        "N": "Next Try",
+        "C": 1
+    },
+    "1078": {
+        "N": "Last Checkout Total",
+        "C": 1
+    },
+    "1080": {
+        "N": "First 3 Darts Total",
+        "C": 1
+    },
+    "1081": {
+        "N": "Highest Opening Partnership",
+        "C": 3
+    },
+    "1083": {
+        "N": "Total Sixes",
+        "C": 2
+    },
+    "1085": {
+        "N": "Individual Total Match 180s",
+        "C": 1
+    },
+    "1087": {
+        "N": "Most 180s In Match",
+        "C": 1
+    },
+    "1089": {
+        "N": "180 To Be Scored",
+        "C": 1
+    },
+    "1091": {
+        "N": "Total Matches With Over/Under",
+        "C": 1
+    },
+    "1093": {
+        "N": "Yellow/Red Card",
+        "C": 1
+    },
+    "1094": {
+        "N": "Main Series Outcome (5 Shots)",
+        "C": 1
+    },
+    "1096": {
+        "N": "When Will Next Wicket Fall",
+        "C": 1
+    },
+    "1098": {
+        "N": "Correct Score Total Matches",
+        "C": 1
+    },
+    "1100": {
+        "N": "Score After X Games",
+        "C": 1
+    },
+    "1102": {
+        "N": "Intermediate Result Of Set",
+        "C": 1
+    },
+    "1104": {
+        "N": "Number In The Score",
+        "C": 2
+    },
+    "1106": {
+        "N": "Who Will Win A Game In The Match",
+        "C": 1
+    },
+    "1108": {
+        "N": "Serve Winning %",
+        "C": 1
+    },
+    "1110": {
+        "N": "Average Speed Of Serve. Total",
+        "C": 1
+    },
+    "1112": {
+        "N": "Total Winners",
+        "C": 1
+    },
+    "1114": {
+        "N": "Fastest Serve",
+        "C": 1
+    },
+    "1116": {
+        "N": "Average Speed Of Serve. Handicap",
+        "C": 1
+    },
+    "1118": {
+        "N": "Serve Percentage. Handicap",
+        "C": 1
+    },
+    "1120": {
+        "N": "Death From Bomb In Round",
+        "C": 1
+    },
+    "1122": {
+        "N": "Last Penalty In A Shootout",
+        "C": 1
+    },
+    "1124": {
+        "N": "Who Will Score Last Penalty In A Shootout",
+        "C": 1
+    },
+    "1126": {
+        "N": "Both Teams Total",
+        "C": 1
+    },
+    "1128": {
+        "N": "Total In Interval",
+        "C": 1
+    },
+    "1130": {
+        "N": "Exact Total Goals",
+        "C": 1
+    },
+    "1132": {
+        "N": "Individual Total Goals In Interval",
+        "C": 1
+    },
+    "1134": {
+        "N": "Fight To Go The Distance",
+        "C": 1
+    },
+    "1136": {
+        "N": "Total Rounds",
+        "C": 1
+    },
+    "1138": {
+        "N": "When Will Bout End",
+        "C": 1
+    },
+    "1140": {
+        "N": "Total Interval.",
+        "C": 1
+    },
+    "1142": {
+        "N": "Total Interval..",
+        "C": 3
+    },
+    "1144": {
+        "N": "Exact Points Difference.",
+        "C": 1
+    },
+    "1146": {
+        "N": "Exact Points Difference..",
+        "C": 1
+    },
+    "1148": {
+        "N": "Exact Points Difference...",
+        "C": 1
+    },
+    "1150": {
+        "N": "Total Interval (3Way)",
+        "C": 1
+    },
+    "1152": {
+        "N": "Total Interval (5Way)",
+        "C": 1
+    },
+    "1156": {
+        "N": "Player To Score Two Goals (Brace)",
+        "C": 1
+    },
+    "1158": {
+        "N": "Player To Score A Hat-Trick",
+        "C": 1
+    },
+    "1160": {
+        "N": "Who Will Win Most Periods",
+        "C": 1
+    },
+    "1162": {
+        "N": "Individual Total 1 Interval (3Way)",
+        "C": 1
+    },
+    "1164": {
+        "N": "Individual Total 1 Interval (5Way)",
+        "C": 1
+    },
+    "1166": {
+        "N": "To Win By (3Way)",
+        "C": 1
+    },
+    "1168": {
+        "N": "To Win By (5Way)",
+        "C": 1
+    },
+    "1170": {
+        "N": "Hole, Result",
+        "C": 1
+    },
+    "1172": {
+        "N": "Hole, Match-Ups",
+        "C": 1
+    },
+    "1174": {
+        "N": "Hole, Total Score",
+        "C": 1
+    },
+    "1176": {
+        "N": "Hole, Over/Under Par",
+        "C": 1
+    },
+    "1178": {
+        "N": "Hole, Player, Over/Under Par",
+        "C": 1
+    },
+    "1180": {
+        "N": "Individual Total 2 Interval (3Way)",
+        "C": 1
+    },
+    "1182": {
+        "N": "Individual Total 2 Interval (5Way)",
+        "C": 1
+    },
+    "2228": {
+        "N": "Highest Scoring Quarter",
+        "C": 1
+    },
+    "2230": {
+        "N": "Lowest Scoring Quarter",
+        "C": 1
+    },
+    "2232": {
+        "N": "Total Of Drawn Quarters",
+        "C": 1
+    },
+    "2234": {
+        "N": "Handicap By Quarters",
+        "C": 1
+    },
+    "2236": {
+        "N": "Correct Score By Quarters",
+        "C": 1
+    },
+    "2238": {
+        "N": "Hole, Winner",
+        "C": 1
+    },
+    "2240": {
+        "N": "Last Hole Played",
+        "C": 1
+    },
+    "2242": {
+        "N": "Total Even / Odd Points In End",
+        "C": 1
+    },
+    "2244": {
+        "N": "First Half / Full-time",
+        "C": 1
+    },
+    "2246": {
+        "N": "Hole, Total Score.",
+        "C": 1
+    },
+    "2248": {
+        "N": "Number Of Drawn Quarters",
+        "C": 1
+    },
+    "2250": {
+        "N": "Win By Quarters",
+        "C": 3
+    },
+    "2252": {
+        "N": "Number Of Quarters Won By Team",
+        "C": 2
+    },
+    "2254": {
+        "N": "First Three-Point Field Goal",
+        "C": 1
+    },
+    "2255": {
+        "N": "Stats",
+        "C": 2
+    },
+    "2257": {
+        "N": "Winner In Round",
+        "C": 1
+    },
+    "2258": {
+        "N": "Penalty Shootout Total",
+        "C": 1
+    },
+    "2260": {
+        "N": "Set Scoring Total",
+        "C": 2
+    },
+    "2262": {
+        "N": "Next Touchdown",
+        "C": 1
+    },
+    "2264": {
+        "N": "Safety",
+        "C": 1
+    },
+    "2266": {
+        "N": "Next Field Goal",
+        "C": 1
+    },
+    "2268": {
+        "N": "Goals In A Row",
+        "C": 1
+    },
+    "2270": {
+        "N": "Extra Penalties",
+        "C": 1
+    },
+    "2272": {
+        "N": "Highest Checkout",
+        "C": 1
+    },
+    "2274": {
+        "N": "Shootout",
+        "C": 1
+    },
+    "2276": {
+        "N": "The Outcome Of Main Rounds In Shootout",
+        "C": 1
+    },
+    "2278": {
+        "N": "Score In Shootout",
+        "C": 1
+    },
+    "2280": {
+        "N": "Result / Teams To Score",
+        "C": 1
+    },
+    "2284": {
+        "N": "Will There Be A Goal",
+        "C": 1
+    },
+    "2286": {
+        "N": "Goal In Minute",
+        "C": 1
+    },
+    "2288": {
+        "N": "Who Will Take Tower",
+        "C": 1
+    },
+    "2290": {
+        "N": "Who Will Beat Dragon",
+        "C": 1
+    },
+    "2292": {
+        "N": "Who Will Beat Roshan",
+        "C": 1
+    },
+    "2294": {
+        "N": "Who Will Beat Nashor",
+        "C": 1
+    },
+    "2296": {
+        "N": "Method Of Win",
+        "C": 1
+    },
+    "2298": {
+        "N": "Method Of Fighter's Win",
+        "C": 2
+    },
+    "2300": {
+        "N": "Bout Duration",
+        "C": 1
+    },
+    "2302": {
+        "N": "Totals",
+        "C": 2
+    },
+    "2304": {
+        "N": "Total Goals (3Way)",
+        "C": 1
+    },
+    "2306": {
+        "N": "Total Touchdowns (3Way)",
+        "C": 1
+    },
+    "2308": {
+        "N": "Total Touchdowns (2Way)",
+        "C": 1
+    },
+    "2310": {
+        "N": "How Will Point Be Scored (3Way)",
+        "C": 1
+    },
+    "2312": {
+        "N": "How Will Point Be Scored (6Way)",
+        "C": 1
+    },
+    "2314": {
+        "N": "Total Hits (3Way)",
+        "C": 1
+    },
+    "2316": {
+        "N": "Player Number Of Runs",
+        "C": 1
+    },
+    "2318": {
+        "N": "Who Will Pot Last Ball",
+        "C": 1
+    },
+    "2320": {
+        "N": "Total Scored Field Goals (3Way)",
+        "C": 1
+    },
+    "2322": {
+        "N": "Total Scored Field Goals (2Way)",
+        "C": 1
+    },
+    "2324": {
+        "N": "Round, Match-Ups",
+        "C": 1
+    },
+    "2326": {
+        "N": "Round, Handicap",
+        "C": 1
+    },
+    "2328": {
+        "N": "Round, Handicap",
+        "C": 1
+    },
+    "2330": {
+        "N": "Round, Total Score",
+        "C": 1
+    },
+    "2332": {
+        "N": "Round Outcomes",
+        "C": 2
+    },
+    "2334": {
+        "N": "In Which Round Will 13th Sector Appear",
+        "C": 1
+    },
+    "2336": {
+        "N": "In Which Round Will Blitz Appear",
+        "C": 1
+    },
+    "2338": {
+        "N": "In Which Round Will Superblitz Appear",
+        "C": 1
+    },
+    "2340": {
+        "N": "Score After First 2 Rounds",
+        "C": 1
+    },
+    "2342": {
+        "N": "First Round / Match",
+        "C": 1
+    },
+    "2344": {
+        "N": "Series Score",
+        "C": 1
+    },
+    "2346": {
+        "N": "Number Of Runs In Match",
+        "C": 1
+    },
+    "2348": {
+        "N": "Total Runs",
+        "C": 1
+    },
+    "2350": {
+        "N": "Total Matches With Extra Innings",
+        "C": 1
+    },
+    "2352": {
+        "N": "Total Strike-Outs In Match",
+        "C": 1
+    },
+    "2354": {
+        "N": "Total Strike-Outs",
+        "C": 1
+    },
+    "2356": {
+        "N": "Leg, Last Checkout (Colour)",
+        "C": 2
+    },
+    "2358": {
+        "N": "Leg, Last Checkout Total",
+        "C": 1
+    },
+    "2360": {
+        "N": "Total Legs In Set",
+        "C": 1
+    },
+    "2362": {
+        "N": "Leg Win",
+        "C": 2
+    },
+    "2364": {
+        "N": "Leg, 180",
+        "C": 2
+    },
+    "2366": {
+        "N": "Leg, First Three Darts Total",
+        "C": 1
+    },
+    "2368": {
+        "N": "Event To Happen",
+        "C": 1
+    },
+    "2370": {
+        "N": "Correct Score In Tie-Break",
+        "C": 2
+    },
+    "2372": {
+        "N": "Even/Odd In Tie-Break",
+        "C": 2
+    },
+    "2374": {
+        "N": "Point In Tie-Break",
+        "C": 2
+    },
+    "2376": {
+        "N": "Any Team To Win With Difference",
+        "C": 1
+    },
+    "2378": {
+        "N": "Team To Win In The Highest Scoring Quarter",
+        "C": 1
+    },
+    "2380": {
+        "N": "Handicap On Tie-Break",
+        "C": 1
+    },
+    "2382": {
+        "N": "First 5 Minutes",
+        "C": 2
+    },
+    "2384": {
+        "N": "First To Happen In First 5 Minutes",
+        "C": 1
+    },
+    "2386": {
+        "N": "First 5 Minutes - Corners",
+        "C": 1
+    },
+    "2388": {
+        "N": "First 5 Minutes - Actions",
+        "C": 1
+    },
+    "2390": {
+        "N": "Team 1 Performance",
+        "C": 1
+    },
+    "2392": {
+        "N": "Team 2 Performance",
+        "C": 1
+    },
+    "2394": {
+        "N": "Total Points For Cards In The Match",
+        "C": 1
+    },
+    "2396": {
+        "N": "Total Cards In The Match",
+        "C": 1
+    },
+    "2398": {
+        "N": "First Card Time",
+        "C": 1
+    },
+    "2402": {
+        "N": "Any Player To Get A Card During The Match In Time Interval",
+        "C": 2
+    },
+    "2404": {
+        "N": "Team 1 Total In Interval",
+        "C": 2
+    },
+    "2406": {
+        "N": "Team 2 Total In Interval",
+        "C": 2
+    },
+    "2408": {
+        "N": "Most Points For Cards",
+        "C": 3
+    },
+    "2410": {
+        "N": "Corners And Cards",
+        "C": 1
+    },
+    "2412": {
+        "N": "Team 1 First Goal In Interval",
+        "C": 1
+    },
+    "2414": {
+        "N": "Team 2 First Goal In Interval",
+        "C": 1
+    },
+    "2416": {
+        "N": "Team And Goal Time",
+        "C": 1
+    },
+    "2418": {
+        "N": "To Keep Clean Sheet",
+        "C": 2
+    },
+    "2420": {
+        "N": "First Goal To Be An Own Goal",
+        "C": 3
+    },
+    "2422": {
+        "N": "Team 1 Scores In Halves",
+        "C": 1
+    },
+    "2424": {
+        "N": "Team 2 Scores In Halves",
+        "C": 1
+    },
+    "2426": {
+        "N": "Both Players To Score During The Match",
+        "C": 1
+    },
+    "2428": {
+        "N": "Team 1, Corner From Minute To Minute",
+        "C": 1
+    },
+    "2430": {
+        "N": "Team 2, Corner From Minute To Minute",
+        "C": 1
+    },
+    "2432": {
+        "N": "Win In Round",
+        "C": 2
+    },
+    "2434": {
+        "N": "Who Will Win X Rounds?",
+        "C": 1
+    },
+    "2436": {
+        "N": "Total Maps",
+        "C": 1
+    },
+    "2438": {
+        "N": "Total Maps Handicap",
+        "C": 1
+    },
+    "2440": {
+        "N": "Team Goals",
+        "C": 1
+    },
+    "2444": {
+        "N": "Total And Both To Score",
+        "C": 2
+    },
+    "2446": {
+        "N": "Both Teams To Score In Halves",
+        "C": 1
+    },
+    "2448": {
+        "N": "First Corner Time",
+        "C": 1
+    },
+    "2450": {
+        "N": "Highest Scoring Half Win",
+        "C": 1
+    },
+    "2452": {
+        "N": "Team 1, First Goal In Half",
+        "C": 3
+    },
+    "2454": {
+        "N": "Team 2, First Goal In Half",
+        "C": 3
+    },
+    "2456": {
+        "N": "Team 1, First Goal In Interval",
+        "C": 1
+    },
+    "2458": {
+        "N": "Team 2, First Goal In Interval",
+        "C": 1
+    },
+    "2460": {
+        "N": "Corner From Minute To Minute",
+        "C": 1
+    },
+    "2462": {
+        "N": "Player To Score First And Last Goal",
+        "C": 1
+    },
+    "2464": {
+        "N": "Player To Score First Or Last Goal",
+        "C": 1
+    },
+    "2466": {
+        "N": "Player To Score In Both Halves",
+        "C": 1
+    },
+    "2468": {
+        "N": "Team 1, First Player To Score",
+        "C": 1
+    },
+    "2470": {
+        "N": "Team 2, First Player To Score",
+        "C": 1
+    },
+    "2472": {
+        "N": "Will There Be A Particular Score In Match",
+        "C": 1
+    },
+    "2474": {
+        "N": "Run Of Play + Match Result",
+        "C": 2
+    },
+    "2476": {
+        "N": "Goals And Cards",
+        "C": 1
+    },
+    "2478": {
+        "N": "Goals And Corners",
+        "C": 1
+    },
+    "2480": {
+        "N": "Total Points In Match",
+        "C": 1
+    },
+    "2484": {
+        "N": "Result + Corners + Cards",
+        "C": 1
+    },
+    "2486": {
+        "N": "Goals + Corners + Cards",
+        "C": 1
+    },
+    "2487": {
+        "N": "Player, Goal In Interval",
+        "C": 1
+    },
+    "2488": {
+        "N": "Points, First 5 Minutes",
+        "C": 1
+    },
+    "2490": {
+        "N": "Next Card",
+        "C": 1
+    },
+    "2492": {
+        "N": "Any Team To Win By",
+        "C": 1
+    },
+    "2494": {
+        "N": "When Will Map End",
+        "C": 1
+    },
+    "2496": {
+        "N": "Goal By Header",
+        "C": 1
+    },
+    "2498": {
+        "N": "Goal From Outside Penalty Area",
+        "C": 1
+    },
+    "2500": {
+        "N": "First Blood",
+        "C": 1
+    },
+    "2502": {
+        "N": "Special Bets",
+        "C": 2
+    },
+    "2504": {
+        "N": "Bets On Teams",
+        "C": 3
+    },
+    "2506": {
+        "N": "Players. Total Runs",
+        "C": 2
+    },
+    "2508": {
+        "N": "Total",
+        "C": 2
+    },
+    "2510": {
+        "N": "Individual Total 1",
+        "C": 2
+    },
+    "2512": {
+        "N": "Individual Total 2",
+        "C": 2
+    },
+    "2514": {
+        "N": "Total Fours",
+        "C": 2
+    },
+    "2516": {
+        "N": "Total Runs In Over",
+        "C": 1
+    },
+    "2518": {
+        "N": "Who Performs Knockdown",
+        "C": 1
+    },
+    "2520": {
+        "N": "Top Batsman",
+        "C": 1
+    },
+    "2522": {
+        "N": "Free Kicks, First 10 Minutes",
+        "C": 1
+    },
+    "2524": {
+        "N": "Goal Kicks, First 10 Minutes",
+        "C": 1
+    },
+    "2526": {
+        "N": "Throw-ins, First 10 Minutes",
+        "C": 1
+    },
+    "2528": {
+        "N": "Winner's Grid Position",
+        "C": 1
+    },
+    "2531": {
+        "N": "Inning Result",
+        "C": 1
+    },
+    "2534": {
+        "N": "Leader At The End Of One Of The Laps",
+        "C": 1
+    },
+    "2536": {
+        "N": "First Driver To Make A Pit Stop",
+        "C": 1
+    },
+    "2538": {
+        "N": "Last Driver To Make A Pit Stop",
+        "C": 1
+    },
+    "2540": {
+        "N": "Speeding In Pit Lane",
+        "C": 1
+    },
+    "2542": {
+        "N": "Fastest Lap + Win",
+        "C": 1
+    },
+    "2544": {
+        "N": "Best Qualification Time + Win",
+        "C": 1
+    },
+    "2546": {
+        "N": "Best Qualification Time + Fastest Lap + Win",
+        "C": 1
+    },
+    "2548": {
+        "N": "To Retire On First Lap",
+        "C": 1
+    },
+    "2550": {
+        "N": "Extra Totals (3Way)",
+        "C": 1
+    },
+    "2552": {
+        "N": "Fastest Lap",
+        "C": 1
+    },
+    "2554": {
+        "N": "Safety Car",
+        "C": 2
+    },
+    "2556": {
+        "N": "Driver To Be Classified",
+        "C": 1
+    },
+    "2558": {
+        "N": "First Driver To Retire",
+        "C": 1
+    },
+    "2560": {
+        "N": "First Driver Of A Team To Retire",
+        "C": 1
+    },
+    "2561": {
+        "N": "Country Of Winner",
+        "C": 1
+    },
+    "2562": {
+        "N": "Continent Of Winner",
+        "C": 1
+    },
+    "2563": {
+        "N": "Team To Score Their Goal In Period",
+        "C": 1
+    },
+    "2565": {
+        "N": "Results, Periods",
+        "C": 1
+    },
+    "2566": {
+        "N": "Players, Match-Ups, Handicaps",
+        "C": 1
+    },
+    "2568": {
+        "N": "To Be Higher (3Way)",
+        "C": 1
+    },
+    "2570": {
+        "N": "1x2, Match-Ups",
+        "C": 1
+    },
+    "2572": {
+        "N": "Double Chance, Match-Ups",
+        "C": 1
+    },
+    "2574": {
+        "N": "Total, Match-Ups",
+        "C": 1
+    },
+    "2576": {
+        "N": "Opponent From 1st Pot",
+        "C": 1
+    },
+    "2578": {
+        "N": "Opponent From 2nd Pot",
+        "C": 1
+    },
+    "2580": {
+        "N": "Opponent From 3rd Pot",
+        "C": 1
+    },
+    "2582": {
+        "N": "Opponent From 4th Pot",
+        "C": 1
+    },
+    "2584": {
+        "N": "In Top 2",
+        "C": 2
+    },
+    "2586": {
+        "N": "In Top 3",
+        "C": 2
+    },
+    "2588": {
+        "N": "In Top 4",
+        "C": 2
+    },
+    "2590": {
+        "N": "In Top 5",
+        "C": 2
+    },
+    "2592": {
+        "N": "In Top 6",
+        "C": 2
+    },
+    "2594": {
+        "N": "In Top 7",
+        "C": 2
+    },
+    "2596": {
+        "N": "In Top 8",
+        "C": 2
+    },
+    "2598": {
+        "N": "In Top 9",
+        "C": 2
+    },
+    "2600": {
+        "N": "In Top 10",
+        "C": 2
+    },
+    "2601": {
+        "N": "The Lead",
+        "C": 1
+    },
+    "2603": {
+        "N": "Leader After 1st Firing Line",
+        "C": 1
+    },
+    "2604": {
+        "N": "Total Games",
+        "C": 1
+    },
+    "2606": {
+        "N": "Number Of Balls Potted On The Break",
+        "C": 1
+    },
+    "2608": {
+        "N": "Golden Break",
+        "C": 1
+    },
+    "2610": {
+        "N": "Leader After 1st Changeover",
+        "C": 1
+    },
+    "2612": {
+        "N": "To Complete Two Runs",
+        "C": 1
+    },
+    "2614": {
+        "N": "Win Without One Of The Opponents",
+        "C": 1
+    },
+    "2616": {
+        "N": "Finishing Position",
+        "C": 1
+    },
+    "2643": {
+        "N": "Total Wins",
+        "C": 1
+    },
+    "2645": {
+        "N": "Total Defeats",
+        "C": 1
+    },
+    "2647": {
+        "N": "Total Matches With OT",
+        "C": 1
+    },
+    "2649": {
+        "N": "Total Conceded Goals",
+        "C": 2
+    },
+    "2651": {
+        "N": "Total Shots",
+        "C": 2
+    },
+    "2653": {
+        "N": "Total Penalty Minutes",
+        "C": 2
+    },
+    "2654": {
+        "N": "Team To Win In All Periods",
+        "C": 1
+    },
+    "2655": {
+        "N": "Penalty Shot In Regular Time",
+        "C": 1
+    },
+    "2657": {
+        "N": "Will A Penalty Shot Be Scored In Regular Time",
+        "C": 1
+    },
+    "2659": {
+        "N": "Goalkeeper To Score",
+        "C": 1
+    },
+    "2661": {
+        "N": "How The First Goal Will Be Scored",
+        "C": 1
+    },
+    "2663": {
+        "N": "Team 1, Result + Total",
+        "C": 1
+    },
+    "2665": {
+        "N": "Team 2, Result + Total",
+        "C": 1
+    },
+    "2667": {
+        "N": "Draw + Total",
+        "C": 1
+    },
+    "2668": {
+        "N": "Double Chance + Total",
+        "C": 1
+    },
+    "2669": {
+        "N": "Last Penalty",
+        "C": 1
+    },
+    "2671": {
+        "N": "Misconduct Penalty",
+        "C": 1
+    },
+    "2673": {
+        "N": "First 2 Minute Penalty",
+        "C": 1
+    },
+    "2674": {
+        "N": "Number Of Targets Hit From A Firing Line",
+        "C": 1
+    },
+    "2676": {
+        "N": "Distance Length, To Be Higher",
+        "C": 1
+    },
+    "2678": {
+        "N": "Who Will Have The Most Hits During The Race?",
+        "C": 1
+    },
+    "2680": {
+        "N": "Hundredths Of A Second In The Winning Time",
+        "C": 1
+    },
+    "2681": {
+        "N": "Players, Special, Total",
+        "C": 1
+    },
+    "2682": {
+        "N": "Total Interval In Regular Time",
+        "C": 1
+    },
+    "2683": {
+        "N": "Frags, Handicap",
+        "C": 1
+    },
+    "2685": {
+        "N": "Frags, Total",
+        "C": 1
+    },
+    "2687": {
+        "N": "Frags, Total Even/Odd",
+        "C": 1
+    },
+    "2689": {
+        "N": "Frags, Race To",
+        "C": 1
+    },
+    "2691": {
+        "N": "First 7 Meter Penalty Shot",
+        "C": 2
+    },
+    "2693": {
+        "N": "Last 7 Meter Penalty Shot",
+        "C": 2
+    },
+    "2695": {
+        "N": "First Unconverted 7 Meter Penalty Shot",
+        "C": 2
+    },
+    "2697": {
+        "N": "Will The First 7 Meter Penalty Shot Be Scored",
+        "C": 2
+    },
+    "2699": {
+        "N": "Total 7 Meter Penalty Shots In The Match",
+        "C": 2
+    },
+    "2701": {
+        "N": "Team Total Of 7 Meter Penalty Shots In The Match",
+        "C": 2
+    },
+    "2703": {
+        "N": "Handicap, 7 Meter Penalty Shots In The Match",
+        "C": 2
+    },
+    "2705": {
+        "N": "Last 2 Minute Suspension",
+        "C": 1
+    },
+    "2707": {
+        "N": "Total 2 Minute Suspensions",
+        "C": 2
+    },
+    "2709": {
+        "N": "Handicap, 2 Minute Suspensions",
+        "C": 1
+    },
+    "2711": {
+        "N": "7 Meter Penalty Shot Percentage",
+        "C": 2
+    },
+    "2713": {
+        "N": "Goalkeepers' Save Percentage",
+        "C": 2
+    },
+    "2715": {
+        "N": "Shot Efficiency Percentage",
+        "C": 2
+    },
+    "2717": {
+        "N": "Total Rounds Even / Odd",
+        "C": 1
+    },
+    "2719": {
+        "N": "In Top 15",
+        "C": 1
+    },
+    "2720": {
+        "N": "1st and 2nd Place In The Group",
+        "C": 1
+    },
+    "2722": {
+        "N": "Lowest Scoring Match Total",
+        "C": 1
+    },
+    "2724": {
+        "N": "Highest Scoring Home Team Total",
+        "C": 1
+    },
+    "2726": {
+        "N": "Highest Scoring Away Team Total",
+        "C": 1
+    },
+    "2728": {
+        "N": "Who Will Score A Goal And Match Score",
+        "C": 1
+    },
+    "2732": {
+        "N": "To Provide An Assist",
+        "C": 1
+    },
+    "2734": {
+        "N": "Player To Score Directly From Free Kick",
+        "C": 1
+    },
+    "2736": {
+        "N": "Position Of Goalscorer",
+        "C": 2
+    },
+    "2738": {
+        "N": "Hit The Post Or Crossbar",
+        "C": 2
+    },
+    "2740": {
+        "N": "Goal After Corner",
+        "C": 1
+    },
+    "2742": {
+        "N": "Period / Match",
+        "C": 1
+    },
+    "2744": {
+        "N": "Set / Match",
+        "C": 1
+    },
+    "2746": {
+        "N": "Team Wins The Match Having Been Behind",
+        "C": 1
+    },
+    "2747": {
+        "N": "First Inning / Match",
+        "C": 1
+    },
+    "2749": {
+        "N": "Both Teams To Score Runs",
+        "C": 1
+    },
+    "2750": {
+        "N": "Remaining Time Outcome",
+        "C": 1
+    },
+    "2752": {
+        "N": "Remaining Time Double Chance",
+        "C": 1
+    },
+    "2754": {
+        "N": "Season Race Wins",
+        "C": 1
+    },
+    "2756": {
+        "N": "Team 1, Player's Try",
+        "C": 1
+    },
+    "2758": {
+        "N": "Team 2, Player's Try",
+        "C": 1
+    },
+    "2760": {
+        "N": "Player's Try",
+        "C": 1
+    },
+    "2761": {
+        "N": "Last Potted Colored Ball",
+        "C": 1
+    },
+    "2763": {
+        "N": "Will There Be A Foul",
+        "C": 1
+    },
+    "2764": {
+        "N": "Highest Scoring Break",
+        "C": 1
+    },
+    "2766": {
+        "N": "1X2 In Regular Time",
+        "C": 1
+    },
+    "2768": {
+        "N": "Regular Time Double Chance",
+        "C": 1
+    },
+    "2770": {
+        "N": "Total Drivers To Be Classified",
+        "C": 1
+    },
+    "2772": {
+        "N": "Thousandths Of A Second In The Winner's Time",
+        "C": 2
+    },
+    "2774": {
+        "N": "Fastest Pit Stop (Not Including Penalties)",
+        "C": 1
+    },
+    "2776": {
+        "N": "Total Games Won On Player's Own Serve",
+        "C": 1
+    },
+    "2778": {
+        "N": "Handicap In Interval",
+        "C": 1
+    },
+    "2780": {
+        "N": "3Way Total Interval",
+        "C": 1
+    },
+    "2782": {
+        "N": "Interval, Race To",
+        "C": 1
+    },
+    "2784": {
+        "N": "Interval, To Win By",
+        "C": 1
+    },
+    "2786": {
+        "N": "Team's Top Driver To Be Higher",
+        "C": 1
+    },
+    "9897": {
+        "N": "Both Teams To Score In At Least One Half",
+        "C": 1
+    },
+    "9898": {
+        "N": "Win Or Correct Score",
+        "C": 1
+    },
+    "9899": {
+        "N": "Too Many Men",
+        "C": 1
+    },
+    "9900": {
+        "N": "Team 1 To Beat Roshans In A Row",
+        "C": 1
+    },
+    "9901": {
+        "N": "Team 2 To Beat Roshans In A Row",
+        "C": 1
+    },
+    "9902": {
+        "N": "Players, Total Steals And Blocks",
+        "C": 1
+    },
+    "9903": {
+        "N": "Innings Start",
+        "C": 1
+    },
+    "9904": {
+        "N": "Last Ball Of The Match",
+        "C": 1
+    },
+    "9905": {
+        "N": "Boundary",
+        "C": 1
+    },
+    "9906": {
+        "N": "Sixes",
+        "C": 1
+    },
+    "9907": {
+        "N": "Teams' Results",
+        "C": 1
+    },
+    "9908": {
+        "N": "Players, Runs",
+        "C": 1
+    },
+    "9909": {
+        "N": "Wickets, Special Bets",
+        "C": 1
+    },
+    "9910": {
+        "N": "Intermediate Results",
+        "C": 1
+    },
+    "9911": {
+        "N": "Players, Total 4's",
+        "C": 1
+    },
+    "9912": {
+        "N": "Players, Total 6's",
+        "C": 1
+    },
+    "9913": {
+        "N": "Match Result Or Total",
+        "C": 1
+    },
+    "9914": {
+        "N": "Match Result Or Both To Score",
+        "C": 1
+    },
+    "9915": {
+        "N": "Both Teams To Score Or Total",
+        "C": 1
+    },
+    "9916": {
+        "N": "Both Teams To Have An Offside",
+        "C": 1
+    },
+    "9917": {
+        "N": "Next Number",
+        "C": 1
+    },
+    "9918": {
+        "N": "1st Ball",
+        "C": 1
+    },
+    "9919": {
+        "N": "Wides And Run-Outs",
+        "C": 1
+    },
+    "9920": {
+        "N": "4's And 6's",
+        "C": 1
+    },
+    "9921": {
+        "N": "Players, Accumulator Outcomes",
+        "C": 1
+    },
+    "9922": {
+        "N": "Opening Batsmen",
+        "C": 1
+    },
+    "9923": {
+        "N": "Last Place Without The Outsider",
+        "C": 1
+    },
+    "9924": {
+        "N": "Best Player Of Team 1",
+        "C": 1
+    },
+    "9925": {
+        "N": "Best Player Of Team 2",
+        "C": 1
+    },
+    "9926": {
+        "N": "Score After X Scored Goals",
+        "C": 1
+    },
+    "9927": {
+        "N": "Team 1, Highest Scoring Period",
+        "C": 1
+    },
+    "9928": {
+        "N": "Team 2, Highest Scoring Period",
+        "C": 1
+    },
+    "9929": {
+        "N": "Team 1, All Goals To Be Scored On One Side Of The Field",
+        "C": 1
+    },
+    "9930": {
+        "N": "Team 2, All Goals To Be Scored On One Side Of The Field",
+        "C": 1
+    },
+    "9931": {
+        "N": "Result After First Overs (2Way)",
+        "C": 1
+    },
+    "9932": {
+        "N": "To Be The First",
+        "C": 1
+    },
+    "9933": {
+        "N": "Outcome Of One Of The Rounds",
+        "C": 1
+    },
+    "9934": {
+        "N": "Team 1 - Total Goal Minutes",
+        "C": 1
+    },
+    "9935": {
+        "N": "Team 2 - Total Goal Minutes",
+        "C": 1
+    },
+    "9936": {
+        "N": "Win In Interval (3Way)",
+        "C": 1
+    },
+    "9937": {
+        "N": "Team To Score Most Sixes",
+        "C": 1
+    },
+    "9938": {
+        "N": "Method Of Next Batsman Dismissal (7Way)",
+        "C": 1
+    },
+    "9939": {
+        "N": "Exact Number",
+        "C": 1
+    },
+    "9940": {
+        "N": "Finishing Moves",
+        "C": 1
+    },
+    "9941": {
+        "N": "Finishing Moves In Round",
+        "C": 1
+    },
+    "9942": {
+        "N": "Winner And Method Of Win In Round",
+        "C": 1
+    },
+    "9943": {
+        "N": "Maps, Overtime",
+        "C": 1
+    },
+    "9944": {
+        "N": "Player's Total Dribbles",
+        "C": 1
+    },
+    "9945": {
+        "N": "Player's Total Aerial Duels",
+        "C": 1
+    },
+    "9946": {
+        "N": "Goals And Yellow Cards",
+        "C": 1
+    },
+    "9947": {
+        "N": "Tournament Result",
+        "C": 1
+    },
+    "9948": {
+        "N": "Individual Total 3",
+        "C": 1
+    },
+    "9949": {
+        "N": "Individual Total 4",
+        "C": 1
+    },
+    "9950": {
+        "N": "Winner Total",
+        "C": 1
+    },
+    "9951": {
+        "N": "Consecutive Hits",
+        "C": 1
+    },
+    "9952": {
+        "N": "Consecutive Misses",
+        "C": 1
+    },
+    "9953": {
+        "N": "Will There Be A Misfire",
+        "C": 1
+    },
+    "9954": {
+        "N": "Will Weapon Breakage Occur",
+        "C": 1
+    },
+    "9955": {
+        "N": "Will There Be A Broken Target",
+        "C": 1
+    },
+    "9956": {
+        "N": "Hitting A Single Target With The 1st Shot",
+        "C": 1
+    },
+    "9957": {
+        "N": "Hitting A Single Target With The 2nd Shot",
+        "C": 1
+    },
+    "9958": {
+        "N": "Double: Two Hits With Two Cartridges",
+        "C": 1
+    },
+    "9959": {
+        "N": "Double: One Hit And One Miss",
+        "C": 1
+    },
+    "9960": {
+        "N": "Goals Scored In The Left And Right Goals",
+        "C": 1
+    },
+    "9961": {
+        "N": "Will The Specified Round Start",
+        "C": 1
+    },
+    "9962": {
+        "N": "Event Outcome",
+        "C": 1
+    },
+    "9963": {
+        "N": "Totals (For The Entire Event)",
+        "C": 1
+    },
+    "9964": {
+        "N": "Totals (From The Start To 59:59)",
+        "C": 1
+    },
+    "9965": {
+        "N": "Totals (From 60:00 To 119:59)",
+        "C": 1
+    },
+    "9966": {
+        "N": "Totals (From 120:00 To 180:00)",
+        "C": 1
+    },
+    "9967": {
+        "N": "Total Pauses",
+        "C": 1
+    },
+    "9968": {
+        "N": "Davidich To Faint",
+        "C": 1
+    },
+    "9969": {
+        "N": "Total Squats In The 1st Hour",
+        "C": 1
+    },
+    "9970": {
+        "N": "Total Squats In The 2nd Hour",
+        "C": 1
+    },
+    "9971": {
+        "N": "Total Squats In The 3rd Hour",
+        "C": 1
+    },
+    "9972": {
+        "N": "All Goals To Be Scored In One Side Of The Field",
+        "C": 1
+    },
+    "9974": {
+        "N": "Paraguay, Top Goalscorer In The Tournament",
+        "C": 1
+    },
+    "9975": {
+        "N": "Ecuador, Top Goalscorer In The Tournament",
+        "C": 1
+    },
+    "9976": {
+        "N": "Bolivia, Top Goalscorer In The Tournament",
+        "C": 1
+    },
+    "9977": {
+        "N": "Winner Without",
+        "C": 1
+    },
+    "9978": {
+        "N": "Teams' Results",
+        "C": 1
+    },
+    "9979": {
+        "N": "Total Points By Both Teams, Match Result",
+        "C": 1
+    },
+    "10281": {
+        "N": "To Win Their First Service Game With Score",
+        "C": 1
+    },
+    "10282": {
+        "N": "To Win Their First Serve",
+        "C": 1
+    },
+    "10283": {
+        "N": "To Win Their First Service Game",
+        "C": 1
+    },
+    "10284": {
+        "N": "Divisions, First Two Places (In The Specified Order)",
+        "C": 1
+    },
+    "10285": {
+        "N": "Any Team To Win By And Total",
+        "C": 1
+    },
+    "10286": {
+        "N": "HT/FT (5Ways) And Total",
+        "C": 1
+    },
+    "10287": {
+        "N": "Team To Score Most Goals",
+        "C": 1
+    },
+    "10288": {
+        "N": "Team To Score Most Behinds",
+        "C": 1
+    },
+    "10289": {
+        "N": "Finalists - Divisions",
+        "C": 1
+    },
+    "10290": {
+        "N": "Winner Number, Interval",
+        "C": 1
+    },
+    "10291": {
+        "N": "Win By.........",
+        "C": 1
+    },
+    "10292": {
+        "N": "Team 2 Total Wickets Taken",
+        "C": 1
+    },
+    "10293": {
+        "N": "Team 1 Total Wickets Taken",
+        "C": 1
+    },
+    "10294": {
+        "N": "Who Will Have A Bogey-Free Round",
+        "C": 1
+    },
+    "10295": {
+        "N": "Who Will Have An Eagle In Round",
+        "C": 1
+    },
+    "10296": {
+        "N": "Who Will Make A Hole In N Strokes In Round",
+        "C": 1
+    },
+    "10297": {
+        "N": "Player, Total Strokes In Round",
+        "C": 1
+    },
+    "10298": {
+        "N": "Virtual Safety Car",
+        "C": 1
+    },
+    "10299": {
+        "N": "Total Sets Won",
+        "C": 1
+    },
+    "10300": {
+        "N": "Handicap After N Races",
+        "C": 1
+    },
+    "10301": {
+        "N": "Juniors Race. Handicap",
+        "C": 1
+    },
+    "10302": {
+        "N": "Nominated Race. Handicap",
+        "C": 1
+    },
+    "10303": {
+        "N": "Total Double Wins",
+        "C": 1
+    },
+    "10304": {
+        "N": "Who Will Make A Knife Kill",
+        "C": 1
+    },
+    "10305": {
+        "N": "AWP Pierce Kills - Yes/No",
+        "C": 1
+    },
+    "10306": {
+        "N": "Player To Win Game With Score",
+        "C": 1
+    },
+    "10307": {
+        "N": "To Win With The Margin (3Way) + Total",
+        "C": 1
+    },
+    "10308": {
+        "N": "Team 1 Finish In Yellow Zone",
+        "C": 1
+    },
+    "10309": {
+        "N": "Team 1 Finish In Red Zone",
+        "C": 1
+    },
+    "10310": {
+        "N": "Team 1 Finish In Blue Zone",
+        "C": 1
+    },
+    "10311": {
+        "N": "Team 1 Finish In Green Zone",
+        "C": 1
+    },
+    "10312": {
+        "N": "Team 2 Finish In Yellow Zone",
+        "C": 1
+    },
+    "10313": {
+        "N": "Team 2 Finish In Red Zone",
+        "C": 1
+    },
+    "10314": {
+        "N": "Team 2 Finish In Blue Zone",
+        "C": 1
+    },
+    "10315": {
+        "N": "Team 2 Finish In Green Zone",
+        "C": 1
+    },
+    "10316": {
+        "N": "Player 1 Total Shots",
+        "C": 1
+    },
+    "10317": {
+        "N": "Player 2 Total Shots",
+        "C": 1
+    },
+    "10318": {
+        "N": "Total Shots",
+        "C": 1
+    },
+    "10319": {
+        "N": "Total Shots Even/Odd",
+        "C": 1
+    },
+    "10320": {
+        "N": "Total Ships Sunk",
+        "C": 1
+    },
+    "10321": {
+        "N": "All Ships Sunk",
+        "C": 1
+    },
+    "10322": {
+        "N": "Ship Left At The End Of The Game",
+        "C": 1
+    },
+    "10323": {
+        "N": "Next Ship Sunk",
+        "C": 1
+    },
+    "10324": {
+        "N": "Who Will Sink Next Ship",
+        "C": 1
+    },
+    "10325": {
+        "N": "Max Number Of Consecutive Precise Shots",
+        "C": 1
+    },
+    "10326": {
+        "N": "Race To Hits",
+        "C": 1
+    },
+    "10327": {
+        "N": "Back-To-Back Hits",
+        "C": 1
+    },
+    "10328": {
+        "N": "Both Players To Score A Home Run",
+        "C": 1
+    },
+    "10329": {
+        "N": "Highest Scoring Period Total",
+        "C": 1
+    },
+    "10330": {
+        "N": "Team To Save Follow On",
+        "C": 1
+    },
+    "10331": {
+        "N": "Team 1 Total In A Zone",
+        "C": 1
+    },
+    "10332": {
+        "N": "Team 2 Total In A Zone",
+        "C": 1
+    },
+    "10333": {
+        "N": "Total In A Zone With A Multipier",
+        "C": 1
+    },
+    "10334": {
+        "N": "Player 1 To Get A Card (Suit)",
+        "C": 1
+    },
+    "10335": {
+        "N": "Player 2 To Get A Card (Suit)",
+        "C": 1
+    },
+    "10336": {
+        "N": "Player 1 To Get A Card (Rank)",
+        "C": 1
+    },
+    "10337": {
+        "N": "Player 2 To Get A Card (Rank)",
+        "C": 1
+    },
+    "10338": {
+        "N": "Player 1 To Get A Card",
+        "C": 1
+    },
+    "10339": {
+        "N": "Player 2 To Get A Card",
+        "C": 1
+    },
+    "10340": {
+        "N": "One Of The Players To Get A Card",
+        "C": 1
+    },
+    "10341": {
+        "N": "Each Player To Score",
+        "C": 1
+    },
+    "10342": {
+        "N": "Player 1, Total Points",
+        "C": 1
+    },
+    "10343": {
+        "N": "Player 2, Total Points",
+        "C": 1
+    },
+    "10344": {
+        "N": "Any Player, Total Points",
+        "C": 1
+    },
+    "10345": {
+        "N": "Young Rider Classification, Top 3",
+        "C": 1
+    },
+    "10346": {
+        "N": "Top Driver Of The Team.",
+        "C": 1
+    },
+    "10347": {
+        "N": "Highest Scoring Team",
+        "C": 1
+    },
+    "10348": {
+        "N": "Team Of Most Combative Rider",
+        "C": 1
+    },
+    "10349": {
+        "N": "Team 1, Method Of Next Batsman Dismissal (2Way)",
+        "C": 1
+    },
+    "10350": {
+        "N": "Team 2, Method Of Next Batsman Dismissal (2Way)",
+        "C": 1
+    },
+    "10351": {
+        "N": "Team 1, Method Of Next Batsman Dismissal (6Way)",
+        "C": 1
+    },
+    "10352": {
+        "N": "Team 2, Method Of Next Batsman Dismissal (6Way)",
+        "C": 1
+    },
+    "10353": {
+        "N": "Team 1, Method Of Next Batsman Dismissal (7Way)",
+        "C": 1
+    },
+    "10354": {
+        "N": "Team 2, Method Of Next Batsman Dismissal (7Way)",
+        "C": 1
+    },
+    "10355": {
+        "N": "Team 1 Total Wickets Taken",
+        "C": 1
+    },
+    "10356": {
+        "N": "Team 2 Total Wickets Taken",
+        "C": 1
+    },
+    "10357": {
+        "N": "Team 1, When Will Next Wicket Fall",
+        "C": 1
+    },
+    "10358": {
+        "N": "Team 2, When Will Next Wicket Fall",
+        "C": 1
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "1": {
+        "N": "1X2",
+        "C": 1
+    },
+    "2": {
+        "N": "Double Chance",
+        "C": 3
+    },
+    "3": {
+        "N": "Handicap",
+        "C": 2
+    },
+    "4": {
+        "N": "Total",
+        "C": 2
+    },
+    "5": {
+        "N": "Total 1",
+        "C": 2
+    },
+    "6": {
+        "N": "Total 2",
+        "C": 2
+    },
+    "7": {
+        "N": "HT-FT",
+        "C": 3
+    },
+    "8": {
+        "N": "Game Scoreline",
+        "C": 2
+    },
+    "9": {
+        "N": "Win In The Game",
+        "C": 2
+    },
+    "10": {
+        "N": "Win In The Set",
+        "C": 2
+    },
+    "11": {
+        "N": "Next Goal",
+        "C": 3
+    },
+    "12": {
+        "N": "Goal Interval - Yes",
+        "C": 1
+    },
+    "13": {
+        "N": "Goal Interval - No",
+        "C": 1
+    },
+    "14": {
+        "N": "Goal Interval",
+        "C": 2
+    },
+    "15": {
+        "N": "First Half Result",
+        "C": 3
+    },
+    "16": {
+        "N": "First Half Total",
+        "C": 2
+    },
+    "17": {
+        "N": "Match Result Including Overtime And Shootouts",
+        "C": 2
+    },
+    "18": {
+        "N": "Draw 0:0",
+        "C": 2
+    },
+    "19": {
+        "N": "Score Draw",
+        "C": 1
+    },
+    "20": {
+        "N": "Draw",
+        "C": 2
+    },
+    "21": {
+        "N": "Both Teams To Score",
+        "C": 2
+    },
+    "22": {
+        "N": "Total Even",
+        "C": 2
+    },
+    "23": {
+        "N": "1 To Score",
+        "C": 2
+    },
+    "24": {
+        "N": "2 To Score",
+        "C": 2
+    },
+    "25": {
+        "N": "Scores In Each Half",
+        "C": 3
+    },
+    "26": {
+        "N": "Team 2, Result + Total",
+        "C": 1
+    },
+    "27": {
+        "N": "Team 2, Result + Total Sets",
+        "C": 1
+    },
+    "4864": {
+        "N": "Total Rushing Yards In Each Half",
+        "C": 1
+    },
+    "4865": {
+        "N": "Total Receiving Yards In Each Half",
+        "C": 1
+    },
+    "4866": {
+        "N": "First Boundary In Match",
+        "C": 1
+    },
+    "4867": {
+        "N": "Ball Number",
+        "C": 1
+    },
+    "4868": {
+        "N": "Total 6's - Even/Odd",
+        "C": 1
+    },
+    "4869": {
+        "N": "Total 4's - Even/Odd",
+        "C": 1
+    },
+    "4870": {
+        "N": "Exact Total Points In End",
+        "C": 1
+    },
+    "4871": {
+        "N": "Total Extras - Even/Odd",
+        "C": 1
+    },
+    "4872": {
+        "N": "To Be Higher (3Way).",
+        "C": 1
+    },
+    "4873": {
+        "N": "Best Batsman's Team (2Way)",
+        "C": 1
+    },
+    "4874": {
+        "N": "Team 1 To Win 1st Round And 1st Half",
+        "C": 1
+    },
+    "4875": {
+        "N": "Team 2 To Win 1st Round And 1st Half",
+        "C": 1
+    },
+    "4876": {
+        "N": "Team 1 To Win 1st Round And Map",
+        "C": 1
+    },
+    "4877": {
+        "N": "Team 2 To Win 1st Round And Map",
+        "C": 1
+    },
+    "4878": {
+        "N": "Score By Pistol Rounds",
+        "C": 1
+    },
+    "4879": {
+        "N": "Highest Checkout Total - Even/Odd",
+        "C": 1
+    },
+    "4881": {
+        "N": "Over, Ball, Team 1 Total Runs",
+        "C": 1
+    },
+    "4882": {
+        "N": "Over, Ball, Team 2 Total Runs",
+        "C": 1
+    },
+    "4883": {
+        "N": "Total Balls (Deliveries)",
+        "C": 1
+    },
+    "4884": {
+        "N": "Total Runs Off A Ball",
+        "C": 1
+    },
+    "4885": {
+        "N": "Team 1, Total Balls (Deliveries)",
+        "C": 1
+    },
+    "4886": {
+        "N": "Team 2, Total Balls (Deliveries)",
+        "C": 1
+    },
+    "4887": {
+        "N": "To Win First Point On Their Own First Service Game",
+        "C": 1
+    },
+    "4888": {
+        "N": "Player 1, Game Score On Their First Service Game After 2 Points",
+        "C": 1
+    },
+    "4889": {
+        "N": "Player 2, Game Score On Their First Service Game After 2 Points",
+        "C": 1
+    },
+    "4890": {
+        "N": "Player 1, Game Score On Their First Service Game After 3 Points",
+        "C": 1
+    },
+    "4891": {
+        "N": "Player 2, Game Score On Their First Service Game After 3 Points",
+        "C": 1
+    },
+    "4892": {
+        "N": "Player 1, Game Score On Their First Service Game After 4 Points",
+        "C": 1
+    },
+    "4893": {
+        "N": "Player 2, Game Score On Their First Service Game After 4 Points",
+        "C": 1
+    },
+    "4894": {
+        "N": "Break Point On Their First Service Game",
+        "C": 1
+    },
+    "4895": {
+        "N": "Deuce On Their First Service Game",
+        "C": 1
+    },
+    "4896": {
+        "N": "Ace On Their First Service Game",
+        "C": 1
+    },
+    "4897": {
+        "N": "Total Points On Players' First Service Games",
+        "C": 1
+    },
+    "4898": {
+        "N": "Player To Score A Goal And Their Team's Result",
+        "C": 1
+    },
+    "4899": {
+        "N": "Team To Win Consecutive Rounds",
+        "C": 1
+    },
+    "4900": {
+        "N": "Result After A Specified Number Of Rounds",
+        "C": 1
+    },
+    "4901": {
+        "N": "Win In Rounds Interval",
+        "C": 1
+    },
+    "4902": {
+        "N": "Team 2 Total Runs Off Consecutive Balls (Including Extras)",
+        "C": 1
+    },
+    "4903": {
+        "N": "Handicap (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "4904": {
+        "N": "Even / Odd (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "4905": {
+        "N": "Total (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "4906": {
+        "N": "Team 1 Total (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "4907": {
+        "N": "Team 2 Total (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "4908": {
+        "N": "Correct Score (Including Overtime And Shootout)",
+        "C": 1
+    },
+    "5067": {
+        "N": "Total Fatal Blows In Match",
+        "C": 1
+    },
+    "5068": {
+        "N": "Total Finishing Moves By Cameo Fighter",
+        "C": 1
+    },
+    "5069": {
+        "N": "Cameo Fighter Will Appear In A Round",
+        "C": 1
+    },
+    "5070": {
+        "N": "Players, Runs Combined",
+        "C": 1
+    },
+    "5071": {
+        "N": "Wins In A Row.",
+        "C": 1
+    },
+    "5072": {
+        "N": "Greece, Top Goalscorer In The Tournament",
+        "C": 1
+    },
+    "5073": {
+        "N": "Players, Rebounds",
+        "C": 1
+    },
+    "5074": {
+        "N": "Players, Assists",
+        "C": 1
+    },
+    "5075": {
+        "N": "Players, Rebounds, Assists",
+        "C": 1
+    },
+    "5076": {
+        "N": "Players, Shots On Target",
+        "C": 1
+    },
+    "5077": {
+        "N": "Players. Fouls",
+        "C": 1
+    },
+    "5078": {
+        "N": "Players. Offsides",
+        "C": 1
+    },
+    "5079": {
+        "N": "Players. Saves",
+        "C": 1
+    },
+    "5080": {
+        "N": "Players. Assists",
+        "C": 1
+    }
+}
